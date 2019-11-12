@@ -1,0 +1,8 @@
+dn: cn=accounting,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=jlopez,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=iontolan,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=jabuhat,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=lceballos,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=lmguanzon,ou=users,dc=intranet,dc=highprophil,dc=com

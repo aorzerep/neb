@@ -1,0 +1,4 @@
+#!/bin/sh
+cd fs_mark-3.3/
+./fs_mark $@ > $LOG_FILE 2>&1
+echo $? > ~/test-exit-status

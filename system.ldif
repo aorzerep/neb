@@ -1,0 +1,12 @@
+dn: ou=users,dc=intranet,dc=highprophil,dc=com
+objectClass: organizationalUnit
+ou: users
+
+dn: ou=groups,dc=intranet,dc=highprophil,dc=com
+objectClass: organizationalUnit
+ou: groups
+
+dn: ou=aliases,dc=intranet,dc=highprophil,dc=com
+objectClass: organizationalUnit
+ou: aliases
+

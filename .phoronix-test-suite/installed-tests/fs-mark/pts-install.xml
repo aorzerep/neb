@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="file:///root/.phoronix-test-suite/xsl/pts-test-installation-viewer.xsl" ?>
+<!-- Generated: 2012-09-14 08:28:38 -->
+<PhoronixTestSuite>
+	<TestInstallation>
+		<Environment>
+			<Name>fs-mark</Name>
+			<Version>1.0.0</Version>
+			<CheckSum>9676d991d267764e8a5914d12e922b4d</CheckSum>
+			<SystemIdentifier>SW50ZWwgQ29yZSBpNy0zNzcwSyBDUFUgQCAzLjUwR0h6X19JbnRlbCA0NDBCWCBEZXNrdG9wIFJlZmVyZW5jZSBQbGF0Zm9ybV9fVWJ1bnR1IDEwLjA0X19HQ0MgNC40LjM=</SystemIdentifier>
+		</Environment>
+		<History>
+			<InstallTime>2012-09-14 07:29:02</InstallTime>
+			<InstallTimeLength></InstallTimeLength>
+			<LastRunTime>2012-09-14 08:28:38</LastRunTime>
+			<TimesRun>1</TimesRun>
+			<AverageRunTime>0</AverageRunTime>
+			<LatestRunTime></LatestRunTime>
+		</History>
+	</TestInstallation>
+</PhoronixTestSuite>

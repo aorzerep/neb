@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="file:///root/.phoronix-test-suite/xsl/pts-test-installation-viewer.xsl" ?>
+<!-- Generated: 2012-09-14 07:38:25 -->
+<PhoronixTestSuite>
+	<TestInstallation>
+		<Environment>
+			<Name>linux-kernel-base</Name>
+			<Version></Version>
+			<CheckSum>079c06d2a6b529be45ba0c772b5aa1f8</CheckSum>
+			<SystemIdentifier>SW50ZWwgQ29yZSBpNy0zNzcwSyBDUFUgQCAzLjUwR0h6X19JbnRlbCA0NDBCWCBEZXNrdG9wIFJlZmVyZW5jZSBQbGF0Zm9ybV9fVWJ1bnR1IDEwLjA0X19HQ0MgNC40LjM=</SystemIdentifier>
+		</Environment>
+		<History>
+			<InstallTime>2012-09-14 07:38:25</InstallTime>
+			<InstallTimeLength>0</InstallTimeLength>
+			<LastRunTime>0000-00-00 00:00:00</LastRunTime>
+			<TimesRun>0</TimesRun>
+			<AverageRunTime></AverageRunTime>
+			<LatestRunTime></LatestRunTime>
+		</History>
+	</TestInstallation>
+</PhoronixTestSuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="rotate" mtime="1309772056" schema="/schemas/apps/fish_applet/prefs/rotate"/>
+	<entry name="image" mtime="1309772056" schema="/schemas/apps/fish_applet/prefs/image"/>
+	<entry name="speed" mtime="1309772056" schema="/schemas/apps/fish_applet/prefs/speed"/>
+	<entry name="command" mtime="1309772056" schema="/schemas/apps/fish_applet/prefs/command"/>
+	<entry name="name" mtime="1309772056" schema="/schemas/apps/fish_applet/prefs/name"/>
+	<entry name="frames" mtime="1309772056" schema="/schemas/apps/fish_applet/prefs/frames"/>
+</gconf>

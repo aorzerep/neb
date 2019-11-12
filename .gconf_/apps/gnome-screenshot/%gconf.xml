@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="last_save_directory" mtime="1307333571" type="string">
+                <stringvalue>file:///afs/intranet.highprophil.com/HOME/acale/Desktop</stringvalue>
+        </entry>
+</gconf>

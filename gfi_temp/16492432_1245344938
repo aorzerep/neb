@@ -1,0 +1,24 @@
+#!/bin/sh
+
+if [ $# -lt 1 ] ; then
+    echo "UNCERTAIN:"
+    echo "Too few arguments"
+    echo "Usage: disks <partition>"
+    echo "!!SCRIPT_FINISHED!!"
+    exit 1
+fi
+
+
+PART="/dev/$1"
+
+DISKS=`df -T | awk ' NR!=1 { if ($1=="'"$PART"'") print "Y"; }'`
+
+
+
+if [[ -z $DISKS ]]; then
+    echo "FALSE:"
+else
+    echo "TRUE:"
+fi
+echo "!!SCRIPT_FINISHED!!"
+

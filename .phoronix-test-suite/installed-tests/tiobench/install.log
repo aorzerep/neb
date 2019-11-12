@@ -1,0 +1,47 @@
+tiobench-0.3.3/crc32.c
+tiobench-0.3.3/tiotest.c
+tiobench-0.3.3/crc32.h
+tiobench-0.3.3/tiotest.h
+tiobench-0.3.3/Makefile
+tiobench-0.3.3/COPYING
+tiobench-0.3.3/README
+tiobench-0.3.3/TODO
+tiobench-0.3.3/ChangeLog
+tiobench-0.3.3/BUGS
+tiobench-0.3.3/tiobench.pl
+tiobench-0.3.3/tiosum.pl
+tiobench-0.3.3/scripts/
+tiobench-0.3.3/scripts/CVS/
+tiobench-0.3.3/scripts/CVS/Root
+tiobench-0.3.3/scripts/CVS/Repository
+tiobench-0.3.3/scripts/CVS/Entries
+tiobench-0.3.3/scripts/bigbench.sh
+tiobench-0.3.3/scripts/README
+tiobench-0.3.3/scripts/makeimages.pl
+gcc -c -O2 -Wall  tiotest.c -o tiotest.o
+gcc -c -O2 -Wall  crc32.c -o crc32.o
+tiotest.c: In function ‘checkIntZero’:
+tiotest.c:94: warning: format not a string literal and no format arguments
+tiotest.c: In function ‘checkLong’:
+tiotest.c:104: warning: format not a string literal and no format arguments
+tiotest.c: In function ‘cleanup_test’:
+tiotest.c:386: warning: pointer targets in passing argument 1 of ‘aligned_free’ differ in signedness
+tiotest.c:44: note: expected ‘caddr_t’ but argument is of type ‘unsigned char *’
+tiotest.c: In function ‘do_test’:
+tiotest.c:555: warning: format not a string literal and no format arguments
+tiotest.c: In function ‘report_random_write_error’:
+tiotest.c:890: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘ssize_t’
+tiotest.c: In function ‘report_read_error’:
+tiotest.c:904: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘ssize_t’
+tiotest.c: In function ‘do_write_test’:
+tiotest.c:912: warning: pointer targets in initialization differ in signedness
+tiotest.c: In function ‘do_random_write_test’:
+tiotest.c:1018: warning: pointer targets in initialization differ in signedness
+tiotest.c: In function ‘do_read_test’:
+tiotest.c:1111: warning: pointer targets in initialization differ in signedness
+tiotest.c: In function ‘do_random_read_test’:
+tiotest.c:1218: warning: pointer targets in initialization differ in signedness
+gcc -o tiotest tiotest.o crc32.o -lpthread
+
+./tiobench.pl --help for usage options
+

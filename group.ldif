@@ -1,0 +1,5 @@
+dn: cn=production,ou=groups,dc=intranet,dc=highprophil,dc=com
+objectClass: top
+objectClass: posixGroup
+cn: production
+gidNumber: 20011

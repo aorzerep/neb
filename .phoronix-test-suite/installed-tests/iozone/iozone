@@ -1,0 +1,3 @@
+#!/bin/sh
+iozone3_323/src/current/iozone $@ > $LOG_FILE 2>&1
+echo $? > ~/test-exit-status

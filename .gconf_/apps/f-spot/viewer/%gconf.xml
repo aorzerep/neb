@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="trans_color" mtime="1304034486" type="string">
+                <stringvalue>#000000</stringvalue>
+        </entry>
+        <entry name="transparency" mtime="1304034486" type="string">
+                <stringvalue>NONE</stringvalue>
+        </entry>
+        <entry name="interpolation" mtime="1304034486" type="bool" value="true">
+        </entry>
+</gconf>

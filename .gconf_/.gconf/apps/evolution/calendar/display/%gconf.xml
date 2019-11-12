@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="selected_calendars" mtime="1306133603" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>1306133603.8759.11@ltsp129</stringvalue>
+		</li>
+	</entry>
+	<entry name="primary_calendar" mtime="1306133603" type="string">
+		<stringvalue>1306133603.8759.11@ltsp129</stringvalue>
+	</entry>
+</gconf>

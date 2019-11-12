@@ -1,0 +1,13 @@
+dn: uid=mcpajaron,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: mcpajaron
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: mcpajaron
+sn: mcpajaron
+uidNumber: 10209
+gidNumber: 20008
+homeDirectory: /afs/intranet.highprophil.com/HOME/mcpajaron
+loginShell: /bin/bash
+gecos: mcpajaron

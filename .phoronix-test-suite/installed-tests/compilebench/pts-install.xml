@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="file:///root/.phoronix-test-suite/xsl/pts-test-installation-viewer.xsl" ?>
+<!-- Generated: 2012-09-14 08:26:34 -->
+<PhoronixTestSuite>
+	<TestInstallation>
+		<Environment>
+			<Name>compilebench</Name>
+			<Version>1.0.0</Version>
+			<CheckSum>033fa4c453818b4bf44481d9792f08de</CheckSum>
+			<SystemIdentifier>SW50ZWwgQ29yZSBpNy0zNzcwSyBDUFUgQCAzLjUwR0h6X19JbnRlbCA0NDBCWCBEZXNrdG9wIFJlZmVyZW5jZSBQbGF0Zm9ybV9fVWJ1bnR1IDEwLjA0X19HQ0MgNC40LjM=</SystemIdentifier>
+		</Environment>
+		<History>
+			<InstallTime>2012-09-14 07:27:19</InstallTime>
+			<InstallTimeLength></InstallTimeLength>
+			<LastRunTime>2012-09-14 08:26:34</LastRunTime>
+			<TimesRun>3</TimesRun>
+			<AverageRunTime>0</AverageRunTime>
+			<LatestRunTime></LatestRunTime>
+		</History>
+	</TestInstallation>
+</PhoronixTestSuite>

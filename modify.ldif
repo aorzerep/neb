@@ -1,0 +1,138 @@
+dn: uid=rcotares,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: rcotares
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: rcotares
+sn: rcotares
+uidNumber: 10071
+gidNumber: 20011
+homeDirectory: /afs/intranet.highprophil.com/HOME/rcotares
+loginShell: /bin/bash
+gecos: Ronah Cotares
+
+dn: uid=dromero,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: dromero
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: dromero
+sn: dromero
+uidNumber: 10072
+gidNumber: 20011
+homeDirectory: /afs/intranet.highprophil.com/HOME/dromero
+loginShell: /bin/bash
+gecos: Maria Duna Romero
+
+dn: uid=mjenopia,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: mjenopia
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: mjenopia
+sn: mjenopia
+uidNumber: 10073
+gidNumber: 20011
+homeDirectory: /afs/intranet.highprophil.com/HOME/mjenopia
+loginShell: /bin/bash
+gecos: Mary Jane Enopia
+
+dn: uid=abunda,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: abunda
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: abunda
+sn: abunda
+uidNumber: 10074
+homeDirectory: /afs/intranet.highprophil.com/HOME/abunda
+loginShell: /bin/bash
+gecos: Angie B. Bunda
+
+dn: uid=abuaya,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: abuaya
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: abuaya
+sn: abuaya
+uidNumber: 10075
+gidNumber: 20011
+homeDirectory: /afs/intranet.highprophil.com/HOME/abuaya
+loginShell: /bin/bash
+gecos: Anecita Buaya
+
+dn: uid=mtabuco,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: mtabuco
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: mtabuco
+sn: mtabuco
+uidNumber: 10076
+gidNumber: 20011
+homeDirectory: /afs/intranet.highprophil.com/HOME/mtabuco
+loginShell: /bin/bash
+gecos:: TWFyaWRldHRlIFRhYnVjbyA=
+
+dn: uid=japarri,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: japarri
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: japarri
+sn: japarri
+uidNumber: 10077
+gidNumber: 20011
+homeDirectory: /afs/intranet.highprophil.com/HOME/japarri
+loginShell: /bin/bash
+gecos: Jeyzel Aparri
+
+dn: uid=rborres,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: rborres
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: rborres
+sn: rborres
+uidNumber: 10078
+gidNumber: 20011
+homeDirectory: /afs/intranet.highprophil.com/HOME/rborres
+loginShell: /bin/bash
+gecos: Rizza Borres
+
+dn: uid=mcaburnay,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: mcaburnay
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: mcaburnay
+sn: mcaburnay
+uidNumber: 10079
+gidNumber: 20011
+homeDirectory: /afs/intranet.highprophil.com/HOME/mcaburnay
+loginShell: /bin/bash
+gecos: Marilou Caburnay
+
+dn: uid=egarrido,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: egarrido
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: egarrido
+sn: egarrido
+uidNumber: 10080
+homeDirectory: /afs/intranet.highprophil.com/HOME/egarrido
+loginShell: /bin/bash
+gecos: Edralyn Garrido
+

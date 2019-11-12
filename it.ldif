@@ -1,0 +1,9 @@
+dn: cn=it,ou=groups,dc=intranet,dc=highprophil,dc=com
+objectClass: top
+objectClass: posixGroup
+cn: it
+gidNumber: 20004
+memberUid: uid=dcanaugan,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=ch,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=wlarrobis,ou=users,dc=intranet,dc=highprophil,dc=com
+

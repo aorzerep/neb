@@ -1,0 +1,4 @@
+dn: cn=stocks,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=mcpajaron,ou=users,dc=intranet,dc=highprophil,dc=com

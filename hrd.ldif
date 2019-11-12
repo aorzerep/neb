@@ -1,0 +1,10 @@
+dn: cn=hrd,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=mjcaldoza,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=aalmodiel,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=gguevarra,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=ianavallo,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=aksuyang,ou=users,dc=intranet,dc=highprophil,dc=com
+
+

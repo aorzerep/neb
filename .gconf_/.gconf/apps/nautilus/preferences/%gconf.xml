@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="background_filename" mtime="1310428345" type="string">
+		<stringvalue>file:///usr/share/nautilus/patterns/ocean_stripes.png</stringvalue>
+	</entry>
+	<entry name="background_set" mtime="1310428345" type="bool" value="true"/>
+	<entry name="background_color" mtime="1310428345" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="always_use_location_entry" mtime="1310428935" type="bool" value="false"/>
+	<entry name="sidebar_width" mtime="1308030980" type="int" value="0"/>
+	<entry name="navigation_window_saved_maximized" mtime="1311241028" type="bool" value="true"/>
+	<entry name="navigation_window_saved_geometry" mtime="1305853693" type="string">
+		<stringvalue>800x550+396+216</stringvalue>
+	</entry>
+</gconf>

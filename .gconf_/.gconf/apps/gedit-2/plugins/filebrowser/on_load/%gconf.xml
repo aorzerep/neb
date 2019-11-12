@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="virtual_root" mtime="1305864874" type="string">
+		<stringvalue>file:///afs/intranet.highprophil.com/HOME/aksuyang/Desktop</stringvalue>
+	</entry>
+	<entry name="root" mtime="1305864874" type="string">
+		<stringvalue>file:///</stringvalue>
+	</entry>
+	<entry name="tree_view" mtime="1305864874" type="bool" value="true"/>
+</gconf>

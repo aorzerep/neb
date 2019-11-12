@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="file:///root/.phoronix-test-suite/xsl/pts-test-installation-viewer.xsl" ?>
+<!-- Generated: 2012-09-14 07:29:31 -->
+<PhoronixTestSuite>
+	<TestInstallation>
+		<Environment>
+			<Name>aio-stress</Name>
+			<Version>1.0.0</Version>
+			<CheckSum>cfcb9b8ed423a4bb327b0846d8b9666b</CheckSum>
+			<SystemIdentifier>SW50ZWwgQ29yZSBpNy0zNzcwSyBDUFUgQCAzLjUwR0h6X19JbnRlbCA0NDBCWCBEZXNrdG9wIFJlZmVyZW5jZSBQbGF0Zm9ybV9fVWJ1bnR1IDEwLjA0X19HQ0MgNC40LjM=</SystemIdentifier>
+		</Environment>
+		<History>
+			<InstallTime>2012-09-14 07:29:31</InstallTime>
+			<InstallTimeLength>0</InstallTimeLength>
+			<LastRunTime>0000-00-00 00:00:00</LastRunTime>
+			<TimesRun>0</TimesRun>
+			<AverageRunTime></AverageRunTime>
+			<LatestRunTime></LatestRunTime>
+		</History>
+	</TestInstallation>
+</PhoronixTestSuite>

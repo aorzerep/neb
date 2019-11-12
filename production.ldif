@@ -1,0 +1,10 @@
+dn: cn=production,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=jdakay,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=jalivio,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=jmediana,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=emoridas,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=nsoron,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=ogeronimo,ou=users,dc=intranet,dc=highprophil,dc=com
+

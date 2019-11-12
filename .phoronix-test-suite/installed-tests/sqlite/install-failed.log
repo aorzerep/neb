@@ -1,0 +1,1166 @@
+sqlite-2500-insertions.txt
+sqlite-3.6.19/
+sqlite-3.6.19/art/
+sqlite-3.6.19/doc/
+sqlite-3.6.19/ext/
+sqlite-3.6.19/ext/icu/
+sqlite-3.6.19/ext/icu/sqliteicu.h
+sqlite-3.6.19/ext/icu/icu.c
+sqlite-3.6.19/ext/icu/README.txt
+sqlite-3.6.19/ext/fts1/
+sqlite-3.6.19/ext/fts1/fts1_porter.c
+sqlite-3.6.19/ext/fts1/simple_tokenizer.c
+sqlite-3.6.19/ext/fts1/fts1_tokenizer.h
+sqlite-3.6.19/ext/fts1/fulltext.c
+sqlite-3.6.19/ext/fts1/fulltext.h
+sqlite-3.6.19/ext/fts1/fts1.c
+sqlite-3.6.19/ext/fts1/fts1.h
+sqlite-3.6.19/ext/fts1/tokenizer.h
+sqlite-3.6.19/ext/fts1/README.txt
+sqlite-3.6.19/ext/fts1/fts1_tokenizer1.c
+sqlite-3.6.19/ext/fts1/fts1_hash.c
+sqlite-3.6.19/ext/fts1/fts1_hash.h
+sqlite-3.6.19/ext/fts1/ft_hash.c
+sqlite-3.6.19/ext/fts1/ft_hash.h
+sqlite-3.6.19/ext/fts2/
+sqlite-3.6.19/ext/fts2/mkfts2amal.tcl
+sqlite-3.6.19/ext/fts2/fts2_hash.c
+sqlite-3.6.19/ext/fts2/fts2_hash.h
+sqlite-3.6.19/ext/fts2/fts2_porter.c
+sqlite-3.6.19/ext/fts2/fts2_tokenizer1.c
+sqlite-3.6.19/ext/fts2/fts2_icu.c
+sqlite-3.6.19/ext/fts2/fts2.c
+sqlite-3.6.19/ext/fts2/fts2.h
+sqlite-3.6.19/ext/fts2/fts2_tokenizer.c
+sqlite-3.6.19/ext/fts2/fts2_tokenizer.h
+sqlite-3.6.19/ext/fts2/README.txt
+sqlite-3.6.19/ext/fts2/README.tokenizers
+sqlite-3.6.19/ext/fts3/
+sqlite-3.6.19/ext/fts3/fts3_tokenizer1.c
+sqlite-3.6.19/ext/fts3/README.syntax
+sqlite-3.6.19/ext/fts3/fts3.c
+sqlite-3.6.19/ext/fts3/fts3.h
+sqlite-3.6.19/ext/fts3/README.txt
+sqlite-3.6.19/ext/fts3/fts3_icu.c
+sqlite-3.6.19/ext/fts3/README.tokenizers
+sqlite-3.6.19/ext/fts3/fts3_porter.c
+sqlite-3.6.19/ext/fts3/mkfts3amal.tcl
+sqlite-3.6.19/ext/fts3/fts3_tokenizer.c
+sqlite-3.6.19/ext/fts3/fts3_tokenizer.h
+sqlite-3.6.19/ext/fts3/fts3_expr.c
+sqlite-3.6.19/ext/fts3/fts3_expr.h
+sqlite-3.6.19/ext/fts3/fts3_hash.c
+sqlite-3.6.19/ext/fts3/fts3_hash.h
+sqlite-3.6.19/ext/async/
+sqlite-3.6.19/ext/async/README.txt
+sqlite-3.6.19/ext/async/sqlite3async.c
+sqlite-3.6.19/ext/async/sqlite3async.h
+sqlite-3.6.19/ext/rtree/
+sqlite-3.6.19/ext/rtree/rtree_util.tcl
+sqlite-3.6.19/ext/rtree/README
+sqlite-3.6.19/ext/rtree/rtree.c
+sqlite-3.6.19/ext/rtree/rtree.h
+sqlite-3.6.19/ext/rtree/rtree1.test
+sqlite-3.6.19/ext/rtree/rtree2.test
+sqlite-3.6.19/ext/rtree/rtree3.test
+sqlite-3.6.19/ext/rtree/rtree4.test
+sqlite-3.6.19/ext/rtree/rtree5.test
+sqlite-3.6.19/ext/rtree/rtree6.test
+sqlite-3.6.19/ext/rtree/tkt3363.test
+sqlite-3.6.19/ext/rtree/viewrtree.tcl
+sqlite-3.6.19/ext/rtree/rtree_perf.tcl
+sqlite-3.6.19/ext/README.txt
+sqlite-3.6.19/src/
+sqlite-3.6.19/src/os.c
+sqlite-3.6.19/src/os.h
+sqlite-3.6.19/src/tclsqlite.c
+sqlite-3.6.19/src/os_os2.c
+sqlite-3.6.19/src/callback.c
+sqlite-3.6.19/src/sqlite.h.in
+sqlite-3.6.19/src/test_onefile.c
+sqlite-3.6.19/src/test_md5.c
+sqlite-3.6.19/src/os_win.c
+sqlite-3.6.19/src/test_wsd.c
+sqlite-3.6.19/src/sqliteInt.h
+sqlite-3.6.19/src/attach.c
+sqlite-3.6.19/src/bitvec.c
+sqlite-3.6.19/src/os_common.h
+sqlite-3.6.19/src/notify.c
+sqlite-3.6.19/src/trigger.c
+sqlite-3.6.19/src/utf.c
+sqlite-3.6.19/src/test_osinst.c
+sqlite-3.6.19/src/shell.c
+sqlite-3.6.19/src/legacy.c
+sqlite-3.6.19/src/test_schema.c
+sqlite-3.6.19/src/test_journal.c
+sqlite-3.6.19/src/fault.c
+sqlite-3.6.19/src/table.c
+sqlite-3.6.19/src/complete.c
+sqlite-3.6.19/src/test_loadext.c
+sqlite-3.6.19/src/update.c
+sqlite-3.6.19/src/sqliteLimit.h
+sqlite-3.6.19/src/btreeInt.h
+sqlite-3.6.19/src/test_malloc.c
+sqlite-3.6.19/src/journal.c
+sqlite-3.6.19/src/malloc.c
+sqlite-3.6.19/src/lempar.c
+sqlite-3.6.19/src/test1.c
+sqlite-3.6.19/src/test2.c
+sqlite-3.6.19/src/test3.c
+sqlite-3.6.19/src/test4.c
+sqlite-3.6.19/src/test5.c
+sqlite-3.6.19/src/test6.c
+sqlite-3.6.19/src/test7.c
+sqlite-3.6.19/src/test8.c
+sqlite-3.6.19/src/test9.c
+sqlite-3.6.19/src/test_pcache.c
+sqlite-3.6.19/src/prepare.c
+sqlite-3.6.19/src/loadext.c
+sqlite-3.6.19/src/pcache.c
+sqlite-3.6.19/src/pcache.h
+sqlite-3.6.19/src/global.c
+sqlite-3.6.19/src/auth.c
+sqlite-3.6.19/src/date.c
+sqlite-3.6.19/src/walker.c
+sqlite-3.6.19/src/test_config.c
+sqlite-3.6.19/src/test_mutex.c
+sqlite-3.6.19/src/fkey.c
+sqlite-3.6.19/src/expr.c
+sqlite-3.6.19/src/random.c
+sqlite-3.6.19/src/test_func.c
+sqlite-3.6.19/src/func.c
+sqlite-3.6.19/src/hash.c
+sqlite-3.6.19/src/hash.h
+sqlite-3.6.19/src/test_init.c
+sqlite-3.6.19/src/mutex_noop.c
+sqlite-3.6.19/src/os_unix.c
+sqlite-3.6.19/src/test_hexio.c
+sqlite-3.6.19/src/main.c
+sqlite-3.6.19/src/mem0.c
+sqlite-3.6.19/src/mem1.c
+sqlite-3.6.19/src/mem2.c
+sqlite-3.6.19/src/mem3.c
+sqlite-3.6.19/src/mem5.c
+sqlite-3.6.19/src/mutex.c
+sqlite-3.6.19/src/mutex.h
+sqlite-3.6.19/src/vdbeblob.c
+sqlite-3.6.19/src/delete.c
+sqlite-3.6.19/src/mutex_os2.c
+sqlite-3.6.19/src/mutex_w32.c
+sqlite-3.6.19/src/sqlite3ext.h
+sqlite-3.6.19/src/pcache1.c
+sqlite-3.6.19/src/pragma.c
+sqlite-3.6.19/src/mutex_unix.c
+sqlite-3.6.19/src/select.c
+sqlite-3.6.19/src/rowset.c
+sqlite-3.6.19/src/memjournal.c
+sqlite-3.6.19/src/test_autoext.c
+sqlite-3.6.19/src/vdbe.c
+sqlite-3.6.19/src/vdbe.h
+sqlite-3.6.19/src/test_backup.c
+sqlite-3.6.19/src/analyze.c
+sqlite-3.6.19/src/util.c
+sqlite-3.6.19/src/backup.c
+sqlite-3.6.19/src/status.c
+sqlite-3.6.19/src/vtab.c
+sqlite-3.6.19/src/hwtime.h
+sqlite-3.6.19/src/alter.c
+sqlite-3.6.19/src/printf.c
+sqlite-3.6.19/src/resolve.c
+sqlite-3.6.19/src/test_async.c
+sqlite-3.6.19/src/test_devsym.c
+sqlite-3.6.19/src/test_server.c
+sqlite-3.6.19/src/pager.c
+sqlite-3.6.19/src/pager.h
+sqlite-3.6.19/src/vdbeInt.h
+sqlite-3.6.19/src/test_thread.c
+sqlite-3.6.19/src/vacuum.c
+sqlite-3.6.19/src/parse.y
+sqlite-3.6.19/src/vdbeapi.c
+sqlite-3.6.19/src/vdbeaux.c
+sqlite-3.6.19/src/vdbemem.c
+sqlite-3.6.19/src/btmutex.c
+sqlite-3.6.19/src/where.c
+sqlite-3.6.19/src/tokenize.c
+sqlite-3.6.19/src/test_btree.c
+sqlite-3.6.19/src/test_tclvar.c
+sqlite-3.6.19/src/btree.c
+sqlite-3.6.19/src/btree.h
+sqlite-3.6.19/src/build.c
+sqlite-3.6.19/src/insert.c
+sqlite-3.6.19/www/
+sqlite-3.6.19/test/
+sqlite-3.6.19/test/tkt3522.test
+sqlite-3.6.19/test/fts2token.test
+sqlite-3.6.19/test/rowid.test
+sqlite-3.6.19/test/quote.test
+sqlite-3.6.19/test/tkt1473.test
+sqlite-3.6.19/test/vtab1.test
+sqlite-3.6.19/test/unique.test
+sqlite-3.6.19/test/tkt3838.test
+sqlite-3.6.19/test/lock2.test
+sqlite-3.6.19/test/jrnlmode2.test
+sqlite-3.6.19/test/varint.test
+sqlite-3.6.19/test/vtab2.test
+sqlite-3.6.19/test/quick.test
+sqlite-3.6.19/test/tkt-4a03edc4c8.test
+sqlite-3.6.19/test/fts3expr.test
+sqlite-3.6.19/test/crash2.test
+sqlite-3.6.19/test/lock3.test
+sqlite-3.6.19/test/jrnlmode3.test
+sqlite-3.6.19/test/vtab3.test
+sqlite-3.6.19/test/progress.test
+sqlite-3.6.19/test/vtab_err.test
+sqlite-3.6.19/test/crash3.test
+sqlite-3.6.19/test/tkt3093.test
+sqlite-3.6.19/test/lock4.test
+sqlite-3.6.19/test/in2.test
+sqlite-3.6.19/test/savepoint2.test
+sqlite-3.6.19/test/vtab4.test
+sqlite-3.6.19/test/pagesize.test
+sqlite-3.6.19/test/fuzz2.test
+sqlite-3.6.19/test/tkt2565.test
+sqlite-3.6.19/test/crash4.test
+sqlite-3.6.19/test/fts3aa.test
+sqlite-3.6.19/test/utf16align.test
+sqlite-3.6.19/test/lock5.test
+sqlite-3.6.19/test/in3.test
+sqlite-3.6.19/test/tkt2192.test
+sqlite-3.6.19/test/savepoint3.test
+sqlite-3.6.19/test/tkt1536.test
+sqlite-3.6.19/test/vtab5.test
+sqlite-3.6.19/test/tkt2251.test
+sqlite-3.6.19/test/reindex.test
+sqlite-3.6.19/test/fuzz3.test
+sqlite-3.6.19/test/cache.test
+sqlite-3.6.19/test/tkt3527.test
+sqlite-3.6.19/test/crash5.test
+sqlite-3.6.19/test/fts3ab.test
+sqlite-3.6.19/test/tkt3841.test
+sqlite-3.6.19/test/lock6.test
+sqlite-3.6.19/test/in4.test
+sqlite-3.6.19/test/savepoint4.test
+sqlite-3.6.19/test/tkt1537.test
+sqlite-3.6.19/test/vtab6.test
+sqlite-3.6.19/test/malloc3.test
+sqlite-3.6.19/test/crash6.test
+sqlite-3.6.19/test/fts3ac.test
+sqlite-3.6.19/test/temptrigger.test
+sqlite-3.6.19/test/attach.test
+sqlite-3.6.19/test/lock7.test
+sqlite-3.6.19/test/e_fkey.test
+sqlite-3.6.19/test/savepoint5.test
+sqlite-3.6.19/test/vtab7.test
+sqlite-3.6.19/test/malloc4.test
+sqlite-3.6.19/test/incrvacuum2.test
+sqlite-3.6.19/test/descidx1.test
+sqlite-3.6.19/test/randexpr1.test
+sqlite-3.6.19/test/tkt-5ee23731f.test
+sqlite-3.6.19/test/fuzz_common.tcl
+sqlite-3.6.19/test/crash7.test
+sqlite-3.6.19/test/fts3ad.test
+sqlite-3.6.19/test/savepoint6.test
+sqlite-3.6.19/test/vtab8.test
+sqlite-3.6.19/test/malloc5.test
+sqlite-3.6.19/test/descidx2.test
+sqlite-3.6.19/test/sort.test
+sqlite-3.6.19/test/crash8.test
+sqlite-3.6.19/test/fts3ae.test
+sqlite-3.6.19/test/tkt1667.test
+sqlite-3.6.19/test/where8m.test
+sqlite-3.6.19/test/tkt2942.test
+sqlite-3.6.19/test/diskfull.test
+sqlite-3.6.19/test/default.test
+sqlite-3.6.19/test/vtab9.test
+sqlite-3.6.19/test/malloc6.test
+sqlite-3.6.19/test/incrblob2.test
+sqlite-3.6.19/test/descidx3.test
+sqlite-3.6.19/test/manydb.test
+sqlite-3.6.19/test/fts3af.test
+sqlite-3.6.19/test/tester.tcl
+sqlite-3.6.19/test/tkt35xx.test
+sqlite-3.6.19/test/tkt3718.test
+sqlite-3.6.19/test/malloc7.test
+sqlite-3.6.19/test/tkt3472.test
+sqlite-3.6.19/test/sqllimits1.test
+sqlite-3.6.19/test/fts3ag.test
+sqlite-3.6.19/test/exclusive.test
+sqlite-3.6.19/test/analyze2.test
+sqlite-3.6.19/test/malloc8.test
+sqlite-3.6.19/test/lookaside.test
+sqlite-3.6.19/test/incrblob_err.test
+sqlite-3.6.19/test/tkt2817.test
+sqlite-3.6.19/test/filefmt.test
+sqlite-3.6.19/test/fts3ah.test
+sqlite-3.6.19/test/tkt3346.test
+sqlite-3.6.19/test/malloc9.test
+sqlite-3.6.19/test/altermalloc.test
+sqlite-3.6.19/test/colname.test
+sqlite-3.6.19/test/fts3ai.test
+sqlite-3.6.19/test/temptable.test
+sqlite-3.6.19/test/limit.test
+sqlite-3.6.19/test/fts3aj.test
+sqlite-3.6.19/test/memdb.test
+sqlite-3.6.19/test/capi3b.test
+sqlite-3.6.19/test/pragma2.test
+sqlite-3.6.19/test/randexpr1.tcl
+sqlite-3.6.19/test/fts3ak.test
+sqlite-3.6.19/test/tempdb.test
+sqlite-3.6.19/test/capi3c.test
+sqlite-3.6.19/test/hook.test
+sqlite-3.6.19/test/tkt2820.test
+sqlite-3.6.19/test/tkt3791.test
+sqlite-3.6.19/test/fts3al.test
+sqlite-3.6.19/test/schema2.test
+sqlite-3.6.19/test/capi3d.test
+sqlite-3.6.19/test/trace.test
+sqlite-3.6.19/test/interrupt.test
+sqlite-3.6.19/test/expr.test
+sqlite-3.6.19/test/fts3am.test
+sqlite-3.6.19/test/date.test
+sqlite-3.6.19/test/vtabA.test
+sqlite-3.6.19/test/tkt2822.test
+sqlite-3.6.19/test/tkt3793.test
+sqlite-3.6.19/test/tkt3292.test
+sqlite-3.6.19/test/like.test
+sqlite-3.6.19/test/fts3an.test
+sqlite-3.6.19/test/tkt3911.test
+sqlite-3.6.19/test/vtabB.test
+sqlite-3.6.19/test/fts3ao.test
+sqlite-3.6.19/test/tkt2391.test
+sqlite-3.6.19/test/trigger1.test
+sqlite-3.6.19/test/tkt2450.test
+sqlite-3.6.19/test/busy.test
+sqlite-3.6.19/test/vtabC.test
+sqlite-3.6.19/test/trigger2.test
+sqlite-3.6.19/test/mallocAll.test
+sqlite-3.6.19/test/vtab_alter.test
+sqlite-3.6.19/test/vtabD.test
+sqlite-3.6.19/test/mallocA.test
+sqlite-3.6.19/test/trigger3.test
+sqlite-3.6.19/test/thread001.test
+sqlite-3.6.19/test/keyword1.test
+sqlite-3.6.19/test/crash.test
+sqlite-3.6.19/test/tkt2767.test
+sqlite-3.6.19/test/mallocB.test
+sqlite-3.6.19/test/tkt3541.test
+sqlite-3.6.19/test/trigger4.test
+sqlite-3.6.19/test/thread002.test
+sqlite-3.6.19/test/mallocC.test
+sqlite-3.6.19/test/lastinsert.test
+sqlite-3.6.19/test/fts1a.test
+sqlite-3.6.19/test/tkt2640.test
+sqlite-3.6.19/test/between.test
+sqlite-3.6.19/test/trigger5.test
+sqlite-3.6.19/test/thread003.test
+sqlite-3.6.19/test/shared2.test
+sqlite-3.6.19/test/ptrchng.test
+sqlite-3.6.19/test/mallocD.test
+sqlite-3.6.19/test/tkt3298.test
+sqlite-3.6.19/test/fts1b.test
+sqlite-3.6.19/test/enc.test
+sqlite-3.6.19/test/journal1.test
+sqlite-3.6.19/test/trigger6.test
+sqlite-3.6.19/test/tkt3357.test
+sqlite-3.6.19/test/thread004.test
+sqlite-3.6.19/test/shared3.test
+sqlite-3.6.19/test/where2.test
+sqlite-3.6.19/test/mallocE.test
+sqlite-3.6.19/test/fts1c.test
+sqlite-3.6.19/test/badutf.test
+sqlite-3.6.19/test/trigger7.test
+sqlite-3.6.19/test/tkt2141.test
+sqlite-3.6.19/test/thread005.test
+sqlite-3.6.19/test/shared4.test
+sqlite-3.6.19/test/tkt3918.test
+sqlite-3.6.19/test/where3.test
+sqlite-3.6.19/test/tkt3731.test
+sqlite-3.6.19/test/fts3expr2.test
+sqlite-3.6.19/test/mallocF.test
+sqlite-3.6.19/test/boundary1.test
+sqlite-3.6.19/test/fts1d.test
+sqlite-3.6.19/test/tkt2643.test
+sqlite-3.6.19/test/trigger8.test
+sqlite-3.6.19/test/icu.test
+sqlite-3.6.19/test/misc1.test
+sqlite-3.6.19/test/where4.test
+sqlite-3.6.19/test/ioerr.test
+sqlite-3.6.19/test/mallocG.test
+sqlite-3.6.19/test/boundary2.test
+sqlite-3.6.19/test/fts1e.test
+sqlite-3.6.19/test/trigger9.test
+sqlite-3.6.19/test/shared6.test
+sqlite-3.6.19/test/tkt3419.test
+sqlite-3.6.19/test/misc2.test
+sqlite-3.6.19/test/where5.test
+sqlite-3.6.19/test/mallocH.test
+sqlite-3.6.19/test/boundary3.test
+sqlite-3.6.19/test/index.test
+sqlite-3.6.19/test/fts1f.test
+sqlite-3.6.19/test/table.test
+sqlite-3.6.19/test/speed1p.test
+sqlite-3.6.19/test/shared7.test
+sqlite-3.6.19/test/sync.test
+sqlite-3.6.19/test/misc3.test
+sqlite-3.6.19/test/where6.test
+sqlite-3.6.19/test/mallocI.test
+sqlite-3.6.19/test/tkt2832.test
+sqlite-3.6.19/test/boundary4.test
+sqlite-3.6.19/test/incrvacuum.test
+sqlite-3.6.19/test/view.test
+sqlite-3.6.19/test/printf.test
+sqlite-3.6.19/test/thread_common.tcl
+sqlite-3.6.19/test/misc4.test
+sqlite-3.6.19/test/where7.test
+sqlite-3.6.19/test/mallocJ.test
+sqlite-3.6.19/test/tkt2332.test
+sqlite-3.6.19/test/subselect.test
+sqlite-3.6.19/test/boundary1.tcl
+sqlite-3.6.19/test/tkt3922.test
+sqlite-3.6.19/test/rtree.test
+sqlite-3.6.19/test/boundary2.tcl
+sqlite-3.6.19/test/misc5.test
+sqlite-3.6.19/test/delete2.test
+sqlite-3.6.19/test/boundary3.tcl
+sqlite-3.6.19/test/where8.test
+sqlite-3.6.19/test/boundary4.tcl
+sqlite-3.6.19/test/mallocK.test
+sqlite-3.6.19/test/tkt1873.test
+sqlite-3.6.19/test/fts1i.test
+sqlite-3.6.19/test/capi2.test
+sqlite-3.6.19/test/enc2.test
+sqlite-3.6.19/test/misc6.test
+sqlite-3.6.19/test/delete3.test
+sqlite-3.6.19/test/where9.test
+sqlite-3.6.19/test/tkt3992.test
+sqlite-3.6.19/test/exec.test
+sqlite-3.6.19/test/insert2.test
+sqlite-3.6.19/test/speed1.test
+sqlite-3.6.19/test/fts1j.test
+sqlite-3.6.19/test/capi3.test
+sqlite-3.6.19/test/enc3.test
+sqlite-3.6.19/test/sidedelete.test
+sqlite-3.6.19/test/init.test
+sqlite-3.6.19/test/misc7.test
+sqlite-3.6.19/test/insert3.test
+sqlite-3.6.19/test/speed2.test
+sqlite-3.6.19/test/fts1k.test
+sqlite-3.6.19/test/autovacuum.test
+sqlite-3.6.19/test/tkt3424.test
+sqlite-3.6.19/test/tkt3493.test
+sqlite-3.6.19/test/insert4.test
+sqlite-3.6.19/test/speed3.test
+sqlite-3.6.19/test/fts1l.test
+sqlite-3.6.19/test/fts2a.test
+sqlite-3.6.19/test/insert5.test
+sqlite-3.6.19/test/speed4.test
+sqlite-3.6.19/test/fts1m.test
+sqlite-3.6.19/test/fts2b.test
+sqlite-3.6.19/test/tkt1435.test
+sqlite-3.6.19/test/safety.test
+sqlite-3.6.19/test/triggerA.test
+sqlite-3.6.19/test/bigfile.test
+sqlite-3.6.19/test/select1.test
+sqlite-3.6.19/test/tkt3554.test
+sqlite-3.6.19/test/fts1n.test
+sqlite-3.6.19/test/fts2c.test
+sqlite-3.6.19/test/notnull.test
+sqlite-3.6.19/test/triggerB.test
+sqlite-3.6.19/test/tkt3997.test
+sqlite-3.6.19/test/select2.test
+sqlite-3.6.19/test/tkt2339.test
+sqlite-3.6.19/test/fkey1.test
+sqlite-3.6.19/test/fts1o.test
+sqlite-3.6.19/test/fts2d.test
+sqlite-3.6.19/test/intpkey.test
+sqlite-3.6.19/test/triggerC.test
+sqlite-3.6.19/test/tkt3929.test
+sqlite-3.6.19/test/select3.test
+sqlite-3.6.19/test/fkey2.test
+sqlite-3.6.19/test/fts2e.test
+sqlite-3.6.19/test/func.test
+sqlite-3.6.19/test/speed4p.explain
+sqlite-3.6.19/test/join.test
+sqlite-3.6.19/test/permutations.test
+sqlite-3.6.19/test/select4.test
+sqlite-3.6.19/test/fkey3.test
+sqlite-3.6.19/test/make-where7.tcl
+sqlite-3.6.19/test/fts2f.test
+sqlite-3.6.19/test/tkt3871.test
+sqlite-3.6.19/test/fts3near.test
+sqlite-3.6.19/test/tkt2213.test
+sqlite-3.6.19/test/soak.test
+sqlite-3.6.19/test/whereA.test
+sqlite-3.6.19/test/tkt1567.test
+sqlite-3.6.19/test/select5.test
+sqlite-3.6.19/test/like2.test
+sqlite-3.6.19/test/fts2g.test
+sqlite-3.6.19/test/tkt4018.test
+sqlite-3.6.19/test/whereB.test
+sqlite-3.6.19/test/select6.test
+sqlite-3.6.19/test/fts2h.test
+sqlite-3.6.19/test/exclusive2.test
+sqlite-3.6.19/test/tkt-2ea2425d34.test
+sqlite-3.6.19/test/loadext2.test
+sqlite-3.6.19/test/collate1.test
+sqlite-3.6.19/test/join2.test
+sqlite-3.6.19/test/select7.test
+sqlite-3.6.19/test/createtab.test
+sqlite-3.6.19/test/fts2i.test
+sqlite-3.6.19/test/savepoint.test
+sqlite-3.6.19/test/fuzz.test
+sqlite-3.6.19/test/collate2.test
+sqlite-3.6.19/test/tkt2285.test
+sqlite-3.6.19/test/join3.test
+sqlite-3.6.19/test/select8.test
+sqlite-3.6.19/test/fts2j.test
+sqlite-3.6.19/test/pragma.test
+sqlite-3.6.19/test/backup_malloc.test
+sqlite-3.6.19/test/tkt1501.test
+sqlite-3.6.19/test/collate3.test
+sqlite-3.6.19/test/join4.test
+sqlite-3.6.19/test/distinctagg.test
+sqlite-3.6.19/test/select9.test
+sqlite-3.6.19/test/alias.test
+sqlite-3.6.19/test/fts2k.test
+sqlite-3.6.19/test/tkt1443.test
+sqlite-3.6.19/test/tkt3935.test
+sqlite-3.6.19/test/aggerror.test
+sqlite-3.6.19/test/collate4.test
+sqlite-3.6.19/test/join5.test
+sqlite-3.6.19/test/insert.test
+sqlite-3.6.19/test/fts2l.test
+sqlite-3.6.19/test/softheap1.test
+sqlite-3.6.19/test/tkt1444.test
+sqlite-3.6.19/test/pcache2.test
+sqlite-3.6.19/test/backup2.test
+sqlite-3.6.19/test/check.test
+sqlite-3.6.19/test/collate5.test
+sqlite-3.6.19/test/fts2m.test
+sqlite-3.6.19/test/fts3b.test
+sqlite-3.6.19/test/auth.test
+sqlite-3.6.19/test/tkt3121.test
+sqlite-3.6.19/test/vacuum.test
+sqlite-3.6.19/test/auth2.test
+sqlite-3.6.19/test/substr.test
+sqlite-3.6.19/test/collate6.test
+sqlite-3.6.19/test/fts2n.test
+sqlite-3.6.19/test/fts3c.test
+sqlite-3.6.19/test/tkt3879.test
+sqlite-3.6.19/test/openv2.test
+sqlite-3.6.19/test/auth3.test
+sqlite-3.6.19/test/collate7.test
+sqlite-3.6.19/test/tclsqlite.test
+sqlite-3.6.19/test/tkt3810.test
+sqlite-3.6.19/test/fts2o.test
+sqlite-3.6.19/test/fts3d.test
+sqlite-3.6.19/test/wherelimit.test
+sqlite-3.6.19/test/collate8.test
+sqlite-3.6.19/test/rowhash.test
+sqlite-3.6.19/test/fts3e.test
+sqlite-3.6.19/test/vacuum2.test
+sqlite-3.6.19/test/fts2p.test
+sqlite-3.6.19/test/tkt2409.test
+sqlite-3.6.19/test/collate9.test
+sqlite-3.6.19/test/incrblob.test
+sqlite-3.6.19/test/analyze.test
+sqlite-3.6.19/test/vacuum3.test
+sqlite-3.6.19/test/fts2q.test
+sqlite-3.6.19/test/tokenize.test
+sqlite-3.6.19/test/tkt1449.test
+sqlite-3.6.19/test/bindxfer.test
+sqlite-3.6.19/test/fuzz_malloc.test
+sqlite-3.6.19/test/fts2r.test
+sqlite-3.6.19/test/corrupt2.test
+sqlite-3.6.19/test/incrvacuum_ioerr.test
+sqlite-3.6.19/test/delete.test
+sqlite-3.6.19/test/fts1porter.test
+sqlite-3.6.19/test/selectA.test
+sqlite-3.6.19/test/filectrl.test
+sqlite-3.6.19/test/corrupt3.test
+sqlite-3.6.19/test/fkey_malloc.test
+sqlite-3.6.19/test/notify1.test
+sqlite-3.6.19/test/tkt2854.test
+sqlite-3.6.19/test/pcache.test
+sqlite-3.6.19/test/selectB.test
+sqlite-3.6.19/test/corrupt4.test
+sqlite-3.6.19/test/server1.test
+sqlite-3.6.19/test/tkt3442.test
+sqlite-3.6.19/test/tkt3757.test
+sqlite-3.6.19/test/conflict.test
+sqlite-3.6.19/test/notify2.test
+sqlite-3.6.19/test/minmax.test
+sqlite-3.6.19/test/selectC.test
+sqlite-3.6.19/test/corrupt5.test
+sqlite-3.6.19/test/cast.test
+sqlite-3.6.19/test/attachmalloc.test
+sqlite-3.6.19/test/bigrow.test
+sqlite-3.6.19/test/tkt3630.test
+sqlite-3.6.19/test/corrupt6.test
+sqlite-3.6.19/test/threadtest1.c
+sqlite-3.6.19/test/threadtest2.c
+sqlite-3.6.19/test/crashtest1.c
+sqlite-3.6.19/test/types.test
+sqlite-3.6.19/test/tkt1512.test
+sqlite-3.6.19/test/async2.test
+sqlite-3.6.19/test/avtrans.test
+sqlite-3.6.19/test/lock.test
+sqlite-3.6.19/test/minmax2.test
+sqlite-3.6.19/test/corrupt7.test
+sqlite-3.6.19/test/malloc.test
+sqlite-3.6.19/test/shared_err.test
+sqlite-3.6.19/test/indexedby.test
+sqlite-3.6.19/test/async3.test
+sqlite-3.6.19/test/subquery.test
+sqlite-3.6.19/test/minmax3.test
+sqlite-3.6.19/test/corrupt8.test
+sqlite-3.6.19/test/schema.test
+sqlite-3.6.19/test/tkt1514.test
+sqlite-3.6.19/test/all.test
+sqlite-3.6.19/test/autoinc.test
+sqlite-3.6.19/test/collateA.test
+sqlite-3.6.19/test/async4.test
+sqlite-3.6.19/test/speed1p.explain
+sqlite-3.6.19/test/shared.test
+sqlite-3.6.19/test/eval.test
+sqlite-3.6.19/test/where.test
+sqlite-3.6.19/test/vtab_shared.test
+sqlite-3.6.19/test/memleak.test
+sqlite-3.6.19/test/corrupt9.test
+sqlite-3.6.19/test/tkt3761.test
+sqlite-3.6.19/test/async5.test
+sqlite-3.6.19/test/ioerr2.test
+sqlite-3.6.19/test/autovacuum_ioerr2.test
+sqlite-3.6.19/test/rollback.test
+sqlite-3.6.19/test/tkt3762.test
+sqlite-3.6.19/test/rdonly.test
+sqlite-3.6.19/test/tkt1644.test
+sqlite-3.6.19/test/ioerr3.test
+sqlite-3.6.19/test/corrupt.test
+sqlite-3.6.19/test/tkt3508.test
+sqlite-3.6.19/test/ioerr4.test
+sqlite-3.6.19/test/tkt2920.test
+sqlite-3.6.19/test/speed4p.test
+sqlite-3.6.19/test/alter.test
+sqlite-3.6.19/test/ioerr5.test
+sqlite-3.6.19/test/pageropt.test
+sqlite-3.6.19/test/malloc_common.tcl
+sqlite-3.6.19/test/jrnlmode.test
+sqlite-3.6.19/test/tkt3824.test
+sqlite-3.6.19/test/in.test
+sqlite-3.6.19/test/io.test
+sqlite-3.6.19/test/thread1.test
+sqlite-3.6.19/test/main.test
+sqlite-3.6.19/test/thread2.test
+sqlite-3.6.19/test/zeroblob.test
+sqlite-3.6.19/test/laststmtchanges.test
+sqlite-3.6.19/test/tkt3581.test
+sqlite-3.6.19/test/tkt3080.test
+sqlite-3.6.19/test/corruptA.test
+sqlite-3.6.19/test/null.test
+sqlite-3.6.19/test/bitvec.test
+sqlite-3.6.19/test/cse.test
+sqlite-3.6.19/test/tableapi.test
+sqlite-3.6.19/test/alter2.test
+sqlite-3.6.19/test/corruptB.test
+sqlite-3.6.19/test/blob.test
+sqlite-3.6.19/test/format4.test
+sqlite-3.6.19/test/misuse.test
+sqlite-3.6.19/test/tkt2927.test
+sqlite-3.6.19/test/alter3.test
+sqlite-3.6.19/test/corruptC.test
+sqlite-3.6.19/test/alter4.test
+sqlite-3.6.19/test/corruptD.test
+sqlite-3.6.19/test/mutex1.test
+sqlite-3.6.19/test/tkt3457.test
+sqlite-3.6.19/test/tkt3201.test
+sqlite-3.6.19/test/sharedlock.test
+sqlite-3.6.19/test/mutex2.test
+sqlite-3.6.19/test/shortread1.test
+sqlite-3.6.19/test/tkt3773.test
+sqlite-3.6.19/test/types2.test
+sqlite-3.6.19/test/count.test
+sqlite-3.6.19/test/tkt3832.test
+sqlite-3.6.19/test/nan.test
+sqlite-3.6.19/test/memsubsys1.test
+sqlite-3.6.19/test/trans2.test
+sqlite-3.6.19/test/types3.test
+sqlite-3.6.19/test/update.test
+sqlite-3.6.19/test/colmeta.test
+sqlite-3.6.19/test/memsubsys2.test
+sqlite-3.6.19/test/tkt2686.test
+sqlite-3.6.19/test/attach2.test
+sqlite-3.6.19/test/loadext.test
+sqlite-3.6.19/test/index2.test
+sqlite-3.6.19/test/backup.test
+sqlite-3.6.19/test/trans3.test
+sqlite-3.6.19/test/backup_ioerr.test
+sqlite-3.6.19/test/veryquick.test
+sqlite-3.6.19/test/attach3.test
+sqlite-3.6.19/test/bind.test
+sqlite-3.6.19/test/fts3atoken.test
+sqlite-3.6.19/test/index3.test
+sqlite-3.6.19/test/tkt3461.test
+sqlite-3.6.19/test/async.test
+sqlite-3.6.19/test/tkt3334.test
+sqlite-3.6.19/test/fts2.test
+sqlite-3.6.19/test/trans.test
+sqlite-3.6.19/test/fts3.test
+sqlite-3.6.19/tool/
+sqlite-3.6.19/tool/speedtest2.tcl
+sqlite-3.6.19/tool/speedtest8.c
+sqlite-3.6.19/tool/diffdb.c
+sqlite-3.6.19/tool/genfkey.README
+sqlite-3.6.19/tool/showdb.c
+sqlite-3.6.19/tool/mkkeywordhash.c
+sqlite-3.6.19/tool/lemon.c
+sqlite-3.6.19/tool/mksqlite3c.tcl
+sqlite-3.6.19/tool/mksqlite3h.tcl
+sqlite-3.6.19/tool/mksqlite3internalh.tcl
+sqlite-3.6.19/tool/genfkey.test
+sqlite-3.6.19/tool/fragck.tcl
+sqlite-3.6.19/tool/omittest.tcl
+sqlite-3.6.19/tool/lempar.c
+sqlite-3.6.19/tool/speedtest8inst1.c
+sqlite-3.6.19/tool/spaceanal.tcl
+sqlite-3.6.19/tool/soak1.tcl
+sqlite-3.6.19/tool/mkspeedsql.tcl
+sqlite-3.6.19/tool/speedtest16.c
+sqlite-3.6.19/tool/speedtest.tcl
+sqlite-3.6.19/tool/space_used.tcl
+sqlite-3.6.19/tool/vdbe-compress.tcl
+sqlite-3.6.19/tool/mkopts.tcl
+sqlite-3.6.19/tool/opcodeDoc.awk
+sqlite-3.6.19/tool/showjournal.c
+sqlite-3.6.19/Makefile.arm-wince-mingw32ce-gcc
+sqlite-3.6.19/contrib/
+sqlite-3.6.19/Makefile.vxworks
+sqlite-3.6.19/spec.template
+sqlite-3.6.19/aclocal.m4
+sqlite-3.6.19/README
+sqlite-3.6.19/ltmain.sh
+sqlite-3.6.19/configure
+sqlite-3.6.19/addopcodes.awk
+sqlite-3.6.19/main.mk
+sqlite-3.6.19/configure.ac
+sqlite-3.6.19/config.guess
+sqlite-3.6.19/install-sh
+sqlite-3.6.19/manifest
+sqlite-3.6.19/config.sub
+sqlite-3.6.19/publish_osx.sh
+sqlite-3.6.19/mkso.sh
+sqlite-3.6.19/mkextu.sh
+sqlite-3.6.19/mkextw.sh
+sqlite-3.6.19/sqlite3.1
+sqlite-3.6.19/Makefile.in
+sqlite-3.6.19/mkopcodec.awk
+sqlite-3.6.19/mkopcodeh.awk
+sqlite-3.6.19/sqlite.pc.in
+sqlite-3.6.19/VERSION
+sqlite-3.6.19/config.h.in
+sqlite-3.6.19/mkdll.sh
+sqlite-3.6.19/manifest.uuid
+sqlite-3.6.19/Makefile.linux-gcc
+sqlite-3.6.19/sqlite3.pc.in
+sqlite-3.6.19/publish.sh
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking for gcc... gcc
+checking for C compiler default output file name... a.out
+checking whether the C compiler works... yes
+checking whether we are cross compiling... no
+checking for suffix of executables... 
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking for a sed that does not truncate output... /bin/sed
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for fgrep... /bin/grep -F
+checking for ld used by gcc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 1572864
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... yes
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for ar... ar
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from gcc object... ok
+checking how to run the C preprocessor... gcc -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... no
+checking for gcc option to produce PIC... -fPIC -DPIC
+checking if gcc PIC flag -fPIC -DPIC works... yes
+checking if gcc static flag -static works... yes
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+checking for a BSD-compatible install... /usr/bin/install -c
+checking for gawk... gawk
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking for int8_t... yes
+checking for int16_t... yes
+checking for int32_t... yes
+checking for int64_t... yes
+checking for intptr_t... yes
+checking for uint8_t... yes
+checking for uint16_t... yes
+checking for uint32_t... yes
+checking for uint64_t... yes
+checking for uintptr_t... yes
+checking for sys/types.h... (cached) yes
+checking for stdlib.h... (cached) yes
+checking for stdint.h... (cached) yes
+checking for inttypes.h... (cached) yes
+checking for usleep... yes
+checking for fdatasync... yes
+checking for localtime_r... yes
+checking for gmtime_r... yes
+checking for localtime_s... no
+checking for tclsh8.4... no
+checking for tclsh... no
+Warning: can't find tclsh - defaulting to non-amalgamation build.
+./configure: line 12322: tclsh: command not found
+configure: Version set to 3.6
+configure: Release set to 3.6.19
+configure: Version number set to 3006019
+checking whether to support threadsafe operation... yes
+checking for library containing pthread_create... -lpthread
+checking whether to allow connections to be shared across threads... no
+checking whether threads can override each others locks... no
+checking whether to support shared library linked as release mode or not... no
+checking whether to use an in-ram database for temporary tables... no
+checking if executables have the .exe suffix... unknown
+checking host system type... (cached) x86_64-unknown-linux-gnu
+checking for Tcl configuration... ./configure: line 12939: tclsh: command not found
+configure: WARNING: Can't find Tcl configuration definitions
+configure: WARNING: *** Without Tcl the regression tests cannot be executed ***
+configure: WARNING: *** Consider using --with-tcl=... to define location of Tcl ***
+checking for library containing tgetent... no
+checking for readline in -lreadline... no
+checking readline.h usability... no
+checking readline.h presence... no
+checking for readline.h... no
+checking for /usr/include/readline.h... no
+checking for /usr/include/readline/readline.h... no
+checking for /usr/local/include/readline.h... no
+checking for /usr/local/include/readline/readline.h... no
+checking for /usr/local/readline/include/readline.h... no
+checking for /usr/local/readline/include/readline/readline.h... no
+checking for /usr/contrib/include/readline.h... no
+checking for /usr/contrib/include/readline/readline.h... no
+checking for /mingw/include/readline.h... no
+checking for /mingw/include/readline/readline.h... no
+checking for library containing fdatasync... none required
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating sqlite3.pc
+config.status: creating config.h
+config.status: executing libtool commands
+tclsh ./tool/mksqlite3h.tcl . >sqlite3.h
+/bin/sh: tclsh: not found
+make: *** [sqlite3.h] Error 127
+gcc  -g -O2 -o lemon ./tool/lemon.c
+cp ./src/lempar.c .
+cp ./src/parse.y .
+./lemon -DSQLITE_OMIT_LOAD_EXTENSION=1  parse.y
+mv parse.h parse.h.temp
+gawk -f ./addopcodes.awk parse.h.temp >parse.h
+cat parse.h ./src/vdbe.c | gawk -f ./mkopcodeh.awk >opcodes.h
+./libtool --mode=compile --tag=CC gcc   -g -O2 -DSQLITE_OS_UNIX=1 -I. -I./src -D_HAVE_SQLITE_CONFIG_H -DNDEBUG   -DSQLITE_THREADSAFE=1 -DSQLITE_THREAD_OVERRIDE_LOCK=-1 -DSQLITE_OMIT_LOAD_EXTENSION=1   -DSQLITE_TEMP_STORE=1 -c ./src/alter.c
+libtool: compile:  gcc -g -O2 -DSQLITE_OS_UNIX=1 -I. -I./src -D_HAVE_SQLITE_CONFIG_H -DNDEBUG -DSQLITE_THREADSAFE=1 -DSQLITE_THREAD_OVERRIDE_LOCK=-1 -DSQLITE_OMIT_LOAD_EXTENSION=1 -DSQLITE_TEMP_STORE=1 -c ./src/alter.c  -fPIC -DPIC -o .libs/alter.o
+In file included from ./src/alter.c:17:
+./src/sqliteInt.h:431: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘i64’
+./src/sqliteInt.h:432: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘u64’
+In file included from ./src/sqliteInt.h:633,
+                 from ./src/alter.c:17:
+./src/btree.h:60: error: expected declaration specifiers or ‘...’ before ‘sqlite3’
+./src/btree.h:158: error: expected declaration specifiers or ‘...’ before ‘i64’
+./src/btree.h:164: error: expected declaration specifiers or ‘...’ before ‘i64’
+./src/btree.h:172: error: expected declaration specifiers or ‘...’ before ‘i64’
+./src/btree.h:178: error: expected declaration specifiers or ‘...’ before ‘sqlite3_int64’
+./src/btree.h:179: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘sqlite3BtreeGetCachedRowid’
+./src/btree.h:193: error: expected declaration specifiers or ‘...’ before ‘i64’
+./src/btree.h:208: error: expected ‘)’ before ‘*’ token
+./src/btree.h:218: error: expected ‘)’ before ‘*’ token
+In file included from ./src/sqliteInt.h:634,
+                 from ./src/alter.c:17:
+./src/vdbe.h:56: error: expected specifier-qualifier-list before ‘i64’
+In file included from ./src/sqliteInt.h:634,
+                 from ./src/alter.c:17:
+./src/vdbe.h:169: error: expected ‘)’ before ‘*’ token
+./src/vdbe.h:200: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+./src/vdbe.h:204: error: expected ‘)’ before ‘*’ token
+In file included from ./src/sqliteInt.h:635,
+                 from ./src/alter.c:17:
+./src/pager.h:90: error: expected ‘)’ before ‘*’ token
+./src/pager.h:109: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘sqlite3PagerJournalSizeLimit’
+./src/pager.h:110: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+./src/pager.h:142: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+./src/pager.h:143: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+In file included from ./src/sqliteInt.h:638,
+                 from ./src/alter.c:17:
+./src/os.h:235: error: expected ‘)’ before ‘*’ token
+./src/os.h:236: error: expected ‘)’ before ‘*’ token
+./src/os.h:237: error: expected ‘)’ before ‘*’ token
+./src/os.h:238: error: expected ‘)’ before ‘*’ token
+./src/os.h:239: error: expected ‘)’ before ‘*’ token
+./src/os.h:240: error: expected ‘)’ before ‘*’ token
+./src/os.h:241: error: expected ‘)’ before ‘*’ token
+./src/os.h:242: error: expected ‘)’ before ‘*’ token
+./src/os.h:243: error: expected ‘)’ before ‘*’ token
+./src/os.h:244: error: expected ‘)’ before ‘*’ token
+./src/os.h:246: error: expected ‘)’ before ‘*’ token
+./src/os.h:247: error: expected ‘)’ before ‘*’ token
+./src/os.h:252: error: expected ‘)’ before ‘*’ token
+./src/os.h:253: error: expected ‘)’ before ‘*’ token
+./src/os.h:254: error: expected ‘)’ before ‘*’ token
+./src/os.h:255: error: expected ‘)’ before ‘*’ token
+./src/os.h:262: error: expected ‘)’ before ‘*’ token
+./src/os.h:263: error: expected ‘)’ before ‘*’ token
+./src/os.h:264: error: expected ‘)’ before ‘*’ token
+./src/os.h:270: error: expected ‘)’ before ‘*’ token
+./src/os.h:271: error: expected ‘)’ before ‘*’ token
+In file included from ./src/alter.c:17:
+./src/sqliteInt.h:680: error: expected specifier-qualifier-list before ‘sqlite3’
+./src/sqliteInt.h:784: error: expected specifier-qualifier-list before ‘sqlite3_vfs’
+./src/sqliteInt.h:946: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:947: error: expected ‘;’ before ‘void’
+./src/sqliteInt.h:1008: error: expected specifier-qualifier-list before ‘i64’
+./src/sqliteInt.h:1027: error: expected ‘:’, ‘,’, ‘;’, ‘}’ or ‘__attribute__’ before ‘*’ token
+./src/sqliteInt.h:1174: error: expected specifier-qualifier-list before ‘sqlite3’
+./src/sqliteInt.h:1212: error: expected specifier-qualifier-list before ‘sqlite3’
+./src/sqliteInt.h:1348: error: expected specifier-qualifier-list before ‘sqlite3’
+./src/sqliteInt.h:1373: error: expected specifier-qualifier-list before ‘i64’
+./src/sqliteInt.h:1733: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘Bitmask’
+./src/sqliteInt.h:1771: error: expected specifier-qualifier-list before ‘Bitmask’
+./src/sqliteInt.h:1809: error: expected specifier-qualifier-list before ‘sqlite3_index_info’
+./src/sqliteInt.h:1854: error: expected specifier-qualifier-list before ‘sqlite3_index_info’
+./src/sqliteInt.h:2073: error: expected specifier-qualifier-list before ‘sqlite3’
+./src/sqliteInt.h:2289: error: expected specifier-qualifier-list before ‘sqlite3’
+./src/sqliteInt.h:2305: error: expected specifier-qualifier-list before ‘sqlite3’
+./src/sqliteInt.h:2323: error: expected specifier-qualifier-list before ‘sqlite3_mem_methods’
+./src/sqliteInt.h:2443: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2444: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2445: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2446: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2448: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2449: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2450: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2452: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2459: error: expected declaration specifiers or ‘...’ before ‘sqlite3_int64’
+./src/sqliteInt.h:2459: error: expected declaration specifiers or ‘...’ before ‘sqlite3_int64’
+./src/sqliteInt.h:2488: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+./src/sqliteInt.h:2489: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+./src/sqliteInt.h:2501: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2502: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2503: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2510: error: expected declaration specifiers or ‘...’ before ‘sqlite3’
+./src/sqliteInt.h:2521: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2522: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2523: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2525: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2528: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2529: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2533: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2534: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2537: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2539: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2560: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2562: error: expected declaration specifiers or ‘...’ before ‘i64’
+./src/sqliteInt.h:2563: error: expected declaration specifiers or ‘...’ before ‘i64’
+./src/sqliteInt.h:2564: error: expected declaration specifiers or ‘...’ before ‘i64’
+./src/sqliteInt.h:2584: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2585: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2587: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2588: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2595: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2596: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2603: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2632: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2634: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2635: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2636: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2638: error: expected declaration specifiers or ‘...’ before ‘sqlite3’
+./src/sqliteInt.h:2639: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2648: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2654: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2671: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2672: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2673: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2674: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2675: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2677: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2678: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2688: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2689: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2708: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2709: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2710: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2712: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2713: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2714: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2715: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2747: error: expected ‘;’, ‘,’ or ‘)’ before ‘*’ token
+./src/sqliteInt.h:2769: error: expected declaration specifiers or ‘...’ before ‘u64’
+./src/sqliteInt.h:2771: error: expected declaration specifiers or ‘...’ before ‘u64’
+./src/sqliteInt.h:2773: error: expected ‘)’ before ‘v’
+./src/sqliteInt.h:2803: error: expected declaration specifiers or ‘...’ before ‘i64’
+./src/sqliteInt.h:2804: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2805: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2809: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2815: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2817: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2818: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2819: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2821: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2822: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+./src/sqliteInt.h:2823: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2827: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2828: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2838: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2842: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2851: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2855: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2856: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2857: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2860: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2861: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2864: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2865: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2867: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2870: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2879: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2880: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2892: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2920: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2921: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2922: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2925: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2933: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2935: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2936: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2937: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2938: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2939: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:2943: error: expected ‘;’, ‘,’ or ‘)’ before ‘*’ token
+./src/sqliteInt.h:2944: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:3006: error: expected ‘)’ before ‘*’ token
+./src/sqliteInt.h:3008: error: expected ‘)’ before ‘*’ token
+./src/alter.c:40: error: expected ‘)’ before ‘*’ token
+./src/alter.c:105: error: expected ‘)’ before ‘*’ token
+./src/alter.c:160: error: expected ‘)’ before ‘*’ token
+./src/alter.c:231: error: expected ‘)’ before ‘*’ token
+./src/alter.c:260: error: expected ‘)’ before ‘*’ token
+./src/alter.c: In function ‘whereForeignKeys’:
+./src/alter.c:282: error: ‘Parse’ has no member named ‘db’
+./src/alter.c:282: error: ‘Table’ has no member named ‘zName’
+./src/alter.c: In function ‘whereTempTriggers’:
+./src/alter.c:297: error: ‘Parse’ has no member named ‘db’
+./src/alter.c:304: error: ‘Table’ has no member named ‘pSchema’
+./src/alter.c:305: error: ‘sqlite3’ undeclared (first use in this function)
+./src/alter.c:305: error: (Each undeclared identifier is reported only once
+./src/alter.c:305: error: for each function it appears in.)
+./src/alter.c:305: error: ‘db’ undeclared (first use in this function)
+./src/alter.c:305: error: ‘Parse’ has no member named ‘db’
+./src/alter.c: In function ‘reloadTableSchema’:
+./src/alter.c:334: error: ‘Parse’ has no member named ‘db’
+./src/alter.c:334: error: ‘Table’ has no member named ‘pSchema’
+./src/alter.c:340: error: ‘Parse’ has no member named ‘db’
+./src/alter.c:347: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:350: error: ‘Parse’ has no member named ‘db’
+./src/alter.c: In function ‘sqlite3AlterRenameTable’:
+./src/alter.c:377: error: ‘sqlite3’ undeclared (first use in this function)
+./src/alter.c:377: error: ‘db’ undeclared (first use in this function)
+./src/alter.c:377: error: ‘Parse’ has no member named ‘db’
+./src/alter.c:392: error: ‘Parse’ has no member named ‘db’
+./src/alter.c:392: error: ‘Table’ has no member named ‘pSchema’
+./src/alter.c:411: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:412: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:414: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:417: error: ‘SQLITE_OK’ undeclared (first use in this function)
+./src/alter.c:422: error: ‘Table’ has no member named ‘pSelect’
+./src/alter.c:423: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:430: error: ‘SQLITE_ALTER_TABLE’ undeclared (first use in this function)
+./src/alter.c:430: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:439: error: ‘Table’ has no member named ‘tabFlags’
+./src/alter.c:441: error: ‘VTable’ has no member named ‘pVtab’
+./src/alter.c:466: error: ‘Parse’ has no member named ‘nMem’
+./src/alter.c:474: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:524: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:549: error: ‘Table’ has no member named ‘zName’
+./src/alter.c: In function ‘sqlite3AlterFinishAddColumn’:
+./src/alter.c:606: error: ‘sqlite3’ undeclared (first use in this function)
+./src/alter.c:606: error: ‘db’ undeclared (first use in this function)
+./src/alter.c:608: error: ‘Parse’ has no member named ‘db’
+./src/alter.c:609: error: ‘Parse’ has no member named ‘nErr’
+./src/alter.c:610: error: ‘Parse’ has no member named ‘pNewTable’
+./src/alter.c:614: error: ‘Table’ has no member named ‘pSchema’
+./src/alter.c:616: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:617: error: ‘Table’ has no member named ‘aCol’
+./src/alter.c:617: error: ‘Table’ has no member named ‘nCol’
+./src/alter.c:624: error: ‘SQLITE_ALTER_TABLE’ undeclared (first use in this function)
+./src/alter.c:624: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:645: error: ‘Table’ has no member named ‘pIndex’
+./src/alter.c:649: error: ‘Table’ has no member named ‘pFKey’
+./src/alter.c:664: error: ‘sqlite3_value’ undeclared (first use in this function)
+./src/alter.c:664: error: ‘pVal’ undeclared (first use in this function)
+./src/alter.c:665: error: ‘SQLITE_UTF8’ undeclared (first use in this function)
+./src/alter.c:687: error: ‘Table’ has no member named ‘addColOffset’
+./src/alter.c:687: error: ‘Table’ has no member named ‘addColOffset’
+./src/alter.c:700: error: ‘Table’ has no member named ‘zName’
+./src/alter.c: In function ‘sqlite3AlterBeginAddColumn’:
+./src/alter.c:725: error: ‘sqlite3’ undeclared (first use in this function)
+./src/alter.c:725: error: ‘db’ undeclared (first use in this function)
+./src/alter.c:725: error: ‘Parse’ has no member named ‘db’
+./src/alter.c:735: error: ‘Table’ has no member named ‘tabFlags’
+./src/alter.c:742: error: ‘Table’ has no member named ‘pSelect’
+./src/alter.c:748: error: ‘Table’ has no member named ‘pSchema’
+./src/alter.c:759: error: ‘Parse’ has no member named ‘pNewTable’
+./src/alter.c:760: error: ‘Table’ has no member named ‘nRef’
+./src/alter.c:761: error: ‘Table’ has no member named ‘dbMem’
+./src/alter.c:761: error: ‘Table’ has no member named ‘dbMem’
+./src/alter.c:762: error: ‘Table’ has no member named ‘nCol’
+./src/alter.c:762: error: ‘Table’ has no member named ‘nCol’
+./src/alter.c:764: error: ‘Table’ has no member named ‘nCol’
+./src/alter.c:766: error: ‘Table’ has no member named ‘aCol’
+./src/alter.c:767: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:767: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:768: error: ‘Table’ has no member named ‘aCol’
+./src/alter.c:768: error: ‘Table’ has no member named ‘zName’
+./src/alter.c:772: error: ‘Table’ has no member named ‘aCol’
+./src/alter.c:772: error: ‘Table’ has no member named ‘aCol’
+./src/alter.c:772: error: ‘Table’ has no member named ‘nCol’
+./src/alter.c:773: error: ‘Table’ has no member named ‘nCol’
+./src/alter.c:774: error: ‘Table’ has no member named ‘aCol’
+./src/alter.c:781: error: ‘Table’ has no member named ‘pSchema’
+./src/alter.c:782: error: ‘Table’ has no member named ‘addColOffset’
+./src/alter.c:782: error: ‘Table’ has no member named ‘addColOffset’
+./src/alter.c:783: error: ‘Table’ has no member named ‘nRef’
+make: *** [alter.lo] Error 1

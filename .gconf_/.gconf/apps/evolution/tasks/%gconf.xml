@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="sources" mtime="1306133603" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1306133602.8759.1@ltsp129&quot; name=&quot;CalDAV&quot; base_uri=&quot;caldav://&quot; readonly=&quot;no&quot;/&gt;
+</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1306133603.8759.13@ltsp129&quot; name=&quot;On This Computer&quot; base_uri=&quot;file:///afs/intranet.highprophil.com/HOME/aksuyang/.evolution/tasks/local&quot; readonly=&quot;no&quot;&gt;&lt;source uid=&quot;1306133603.8759.15@ltsp129&quot; name=&quot;Personal&quot; relative_uri=&quot;system&quot; color_spec=&quot;#BECEDD&quot;/&gt;&lt;/group&gt;
+</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1306133603.8759.14@ltsp129&quot; name=&quot;On The Web&quot; base_uri=&quot;webcal://&quot; readonly=&quot;no&quot;/&gt;
+</stringvalue>
+		</li>
+	</entry>
+</gconf>

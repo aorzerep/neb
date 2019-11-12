@@ -1,0 +1,247 @@
+iozone3_323/src/current/Changes.txt
+iozone3_323/src/current/iozone.c
+iozone3_323/src/current/report.pl
+iozone3_323/src/current/fileop.c
+iozone3_323/docs/iozone.1
+iozone3_323/src/current/makefile
+iozone3_323/src/current/libasync.c
+iozone3_323/src/current/libbif.c
+iozone3_323/src/current/gnuplot.dem
+iozone3_323/src/current/gengnuplot.sh
+iozone3_323/src/current/Generate_Graphs
+iozone3_323/src/current/iozone_visualizer.pl
+iozone3_323/src/current/gnu3d.dem
+iozone3_323/src/current/Gnuplot.txt
+iozone3_323/src/current/gnuplotps.dem
+iozone3_323/src/current/read_telemetry
+iozone3_323/src/current/write_telemetry
+iozone3_323/src/current/client_list
+iozone3_323/src/current/spec.in
+iozone3_323/docs/IOzone_msword_98.pdf
+iozone3_323/docs/Run_rules.doc
+iozone3_323/docs/IOzone_msword_98.doc
+iozone3_323/docs/Iozone_ps.gz
+
+Building iozone for Linux-AMD64
+
+cc -c -O3 -Dunix -DHAVE_ANSIC_C -DASYNC_IO -DNAME='"linux-AMD64"' \
+		-D__AMD64__ -DSHARED_MEM -Dlinux -D_LARGEFILE64_SOURCE \
+		 iozone.c \
+		-o iozone_linux-AMD64.o
+iozone.c: In function ‘main’:
+iozone.c:1797: warning: format ‘%lld’ expects type ‘long long int *’, but argument 3 has type ‘off64_t *’
+iozone.c:1821: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:2182: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:2205: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:1885: warning: ignoring return value of ‘fread’, declared with attribute warn_unused_result
+iozone.c: In function ‘begin’:
+iozone.c:3023: warning: format ‘%16lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:3081: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c: In function ‘auto_test’:
+iozone.c:3222: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘throughput_test’:
+iozone.c:3398: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:3408: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘verify_buffer’:
+iozone.c:6352: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:6353: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:6396: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:6397: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:6398: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c: In function ‘write_perf_test’:
+iozone.c:6971: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:6973: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘fread_perf_test’:
+iozone.c:7454: warning: format ‘%x’ expects type ‘unsigned int’, but argument 3 has type ‘long long unsigned int’
+iozone.c: In function ‘read_perf_test’:
+iozone.c:7747: warning: format ‘%x’ expects type ‘unsigned int’, but argument 3 has type ‘long long unsigned int’
+iozone.c:7868: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:7910: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:7912: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘random_perf_test’:
+iozone.c:8311: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:8435: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c: In function ‘reverse_perf_test’:
+iozone.c:8740: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c: In function ‘read_stride_perf_test’:
+iozone.c:9333: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:9334: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c: In function ‘dump_report’:
+iozone.c:10910: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:10928: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:10943: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:10951: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c: In function ‘dump_times’:
+iozone.c:11140: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:11158: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c:11173: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘alloc_mem’:
+iozone.c:11383: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘long unsigned int’
+iozone.c: In function ‘purge_buffer_cache’:
+iozone.c:11590: warning: ignoring return value of ‘system’, declared with attribute warn_unused_result
+iozone.c: In function ‘thread_write_test’:
+iozone.c:12129: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘thread_rwrite_test’:
+iozone.c:13290: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘thread_read_test’:
+iozone.c:13786: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:13841: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘thread_rread_test’:
+iozone.c:14832: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:14887: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘thread_reverse_read_test’:
+iozone.c:15346: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:15410: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘thread_stride_read_test’:
+iozone.c:15821: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:15920: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘thread_ranread_test’:
+iozone.c:16491: warning: format ‘%lld’ expects type ‘long long int’, but argument 2 has type ‘off64_t’
+iozone.c:16550: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘thread_ranwrite_test’:
+iozone.c:17183: warning: format ‘%10.1lld’ expects type ‘long long int’, but argument 3 has type ‘off64_t’
+iozone.c: In function ‘mythread_create’:
+iozone.c:17453: warning: format ‘%ld’ expects type ‘long int’, but argument 2 has type ‘long long int’
+iozone.c: In function ‘disrupt’:
+iozone.c:18420: warning: ignoring return value of ‘read’, declared with attribute warn_unused_result
+iozone.c:18422: warning: ignoring return value of ‘read’, declared with attribute warn_unused_result
+iozone.c:18429: warning: ignoring return value of ‘read’, declared with attribute warn_unused_result
+iozone.c:18431: warning: ignoring return value of ‘read’, declared with attribute warn_unused_result
+iozone.c: In function ‘master_send’:
+iozone.c:19358: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long unsigned int’
+iozone.c:19359: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long unsigned int’
+iozone.c: In function ‘pick_client’:
+iozone.c:20170: warning: ignoring return value of ‘system’, declared with attribute warn_unused_result
+iozone.c: In function ‘speed_main’:
+iozone.c:21586: warning: ignoring return value of ‘system’, declared with attribute warn_unused_result
+iozone.c: In function ‘sp_send_result’:
+iozone.c:21662: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result
+iozone.c: In function ‘start_monitor’:
+iozone.c:22340: warning: ignoring return value of ‘system’, declared with attribute warn_unused_result
+iozone.c: In function ‘stop_monitor’:
+iozone.c:22358: warning: ignoring return value of ‘system’, declared with attribute warn_unused_result
+cc -c -O3 -Dunix -DHAVE_ANSIC_C -DASYNC_IO -D_LARGEFILE64_SOURCE \
+		-DSHARED_MEM -Dlinux  libbif.c -o libbif.o
+libbif.c: In function ‘do_header’:
+libbif.c:218: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result
+libbif.c: In function ‘do_int’:
+libbif.c:250: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result
+libbif.c: In function ‘do_float’:
+libbif.c:336: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result
+libbif.c:337: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result
+libbif.c: In function ‘do_label’:
+libbif.c:379: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result
+libbif.c: In function ‘do_eof’:
+libbif.c:396: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result
+cc -c -O3 -Dunix -Dlinux -DHAVE_ANSIC_C -DASYNC_IO \
+		-D_LARGEFILE64_SOURCE  libasync.c  -o libasync.o 
+libasync.c: In function ‘async_read’:
+libasync.c:370: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:408: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:433: warning: format ‘%d’ expects type ‘int’, but argument 5 has type ‘size_t’
+libasync.c:460: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:522: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:542: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:567: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘__off_t’
+libasync.c:567: warning: format ‘%d’ expects type ‘int’, but argument 5 has type ‘size_t’
+libasync.c: In function ‘async_read_no_copy’:
+libasync.c:886: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:936: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:961: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘__off_t’
+libasync.c:961: warning: format ‘%d’ expects type ‘int’, but argument 5 has type ‘size_t’
+libasync.c:999: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:1070: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:1102: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘ssize_t’
+libasync.c:1127: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘__off_t’
+libasync.c:1127: warning: format ‘%d’ expects type ‘int’, but argument 5 has type ‘size_t’
+libasync.c: In function ‘async_write’:
+libasync.c:1261: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘size_t’
+libasync.c: In function ‘async_wait_for_write’:
+libasync.c:1460: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘size_t’
+libasync.c:1466: warning: format ‘%lld’ expects type ‘long long int’, but argument 3 has type ‘__off_t’
+libasync.c:1466: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘size_t’
+libasync.c: In function ‘async_write_no_copy’:
+libasync.c:1566: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘size_t’
+libasync.c:1573: warning: format ‘%lld’ expects type ‘long long int’, but argument 4 has type ‘__off_t’
+libasync.c:1573: warning: format ‘%d’ expects type ‘int’, but argument 5 has type ‘size_t’
+
+Building fileop for Linux-AMD64
+
+cc -Wall -c -O3  fileop.c -o fileop_linux-AMD64.o
+fileop.c: In function ‘purge_buffer_cache’:
+fileop.c:148: warning: ignoring return value of ‘getcwd’, declared with attribute warn_unused_result
+fileop.c:149: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:164: warning: ignoring return value of ‘system’, declared with attribute warn_unused_result
+fileop.c:165: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘main’:
+fileop.c:257: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘dir_create’:
+fileop.c:608: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:629: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:650: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:651: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:653: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:655: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘dir_traverse’:
+fileop.c:671: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:678: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:685: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:686: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:699: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:712: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_create’:
+fileop.c:749: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:759: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:784: warning: ignoring return value of ‘write’, declared with attribute warn_unused_result
+fileop.c:810: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:812: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_stat’:
+fileop.c:827: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:831: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:853: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:855: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_access’:
+fileop.c:869: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:873: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:896: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:898: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_chmod’:
+fileop.c:912: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:916: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:939: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:941: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_readdir’:
+fileop.c:957: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:961: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:991: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:993: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_link’:
+fileop.c:1008: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1012: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1035: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1037: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_unlink’:
+fileop.c:1052: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1056: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1079: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1081: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘dir_delete’:
+fileop.c:1095: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1099: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1103: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1104: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1118: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1133: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_delete’:
+fileop.c:1160: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1164: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1181: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1185: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c: In function ‘file_read’:
+fileop.c:1203: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1207: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1251: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+fileop.c:1253: warning: ignoring return value of ‘chdir’, declared with attribute warn_unused_result
+cc  -O3  iozone_linux-AMD64.o libbif.o libasync.o \
+		-lrt -lpthread -o iozone
+cc  -O3 -Dlinux fileop_linux-AMD64.o -o fileop

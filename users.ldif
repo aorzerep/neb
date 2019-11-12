@@ -1,0 +1,13 @@
+dn: uid=alberdin,ou=users,dc=intranet,dc=highprophil,dc=com
+uid: alberdin
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+cn: alberdin
+sn: alberdin
+uidNumber: 10185
+gidNumber: 20002
+homeDirectory: /home/alberdin
+loginShell: /bin/bash
+gecos: alberdin

@@ -1,0 +1,4 @@
+#!/bin/sh
+./aio-stress-bin $@ aio-test-file > $LOG_FILE 2>&1
+echo $? > ~/test-exit-status
+rm -f aio-test-file

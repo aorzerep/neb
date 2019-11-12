@@ -1,0 +1,28 @@
+dn: cn=planning,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=labella,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=jcabesas,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=rtonilon,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=cfetiluna,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=dolam,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=rborres,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mcaburnay,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=egarrido,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=jmanoza,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=gpenaredondo,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mcaday,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=cfuentes,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=cparba,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=tbasalo,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=gcaluyong,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mbarette,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=ljcatubig,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=sgalvez,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mjcalinawan,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=qasamson,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mgfernandez,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=jsullano,ou=users,dc=intranet,dc=highprophil,dc=com
+
+
+

@@ -1,0 +1,12 @@
+dn: cn=stocks,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=clumapat,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mgucor,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=abunda,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=cyanez,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=alagumbay,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=adona,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=csalogaol,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=ncampoamor,ou=users,dc=intranet,dc=highprophil,dc=com
+

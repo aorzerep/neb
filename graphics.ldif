@@ -1,0 +1,10 @@
+dn: cn=graphics,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=jcasul,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=photo,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=ajuban,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=pjaum,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mkjgenita,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mdelacerna,ou=users,dc=intranet,dc=highprophil,dc=com
+

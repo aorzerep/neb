@@ -1,0 +1,12 @@
+using working directory t, 10 intial dirs 100 runs
+native unpatched native-0 222MB in 12.23 seconds (18.18 MB/s)
+Traceback (most recent call last):
+  File "./compilebench", line 567, in <module>
+    dset = dataset(options.sources, rnd)
+  File "./compilebench", line 319, in __init__
+    self.unpatched = native_order(self.unpatched, "unpatched")
+  File "./compilebench", line 103, in native_order
+    rmrf(dirname)
+  File "./compilebench", line 66, in rmrf
+    os.remove(os.path.join(root, name))
+KeyboardInterrupt

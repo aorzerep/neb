@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="storage_path" mtime="1304034484" type="string">
+                <stringvalue>/afs/intranet.highprophil.com/HOME/acale/Photos</stringvalue>
+        </entry>
+</gconf>

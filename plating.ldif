@@ -1,0 +1,5 @@
+dn: cn=plating,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=rtano,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=lsibi,ou=users,dc=intranet,dc=highprophil,dc=com

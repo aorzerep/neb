@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="font" mtime="1308110083" type="string">
+		<stringvalue>Century Schoolbook L Bold 24</stringvalue>
+	</entry>
+	<entry name="height" mtime="1308110079" type="int" value="675"/>
+	<entry name="width" mtime="1308110079" type="int" value="900"/>
+	<entry name="last_char" mtime="1308110078" type="string">
+		<stringvalue>U+0046</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,19 @@
+postmark-1.51/
+postmark-1.51/postmark-1.51.c
+postmark-1.51.c: In function ‘verbose_report’:
+postmark-1.51.c:531: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘time_t’
+postmark-1.51.c:533: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘time_t’
+postmark-1.51.c:533: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘time_t’
+postmark-1.51.c:537: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘time_t’
+postmark-1.51.c:543: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘time_t’
+postmark-1.51.c:544: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘time_t’
+postmark-1.51.c:546: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘time_t’
+postmark-1.51.c:548: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘time_t’
+postmark-1.51.c:554: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘time_t’
+postmark-1.51.c: In function ‘terse_report’:
+postmark-1.51.c:576: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘time_t’
+postmark-1.51.c:576: warning: format ‘%d’ expects type ‘int’, but argument 4 has type ‘time_t’
+postmark-1.51.c: In function ‘create_file_name’:
+postmark-1.51.c:664: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘long unsigned int’
+/tmp/ccTIj2Ih.o: In function `cli_show':
+postmark-1.51.c:(.text+0x27cd): warning: the `getwd' function is dangerous and should not be used.

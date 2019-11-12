@@ -1,0 +1,56 @@
+
+[start]
+0=.
+
+[name]
+0=dropbox
+1=*.*
+
+[Dir Hist New Right Panel]
+0=/root
+1=/
+
+[cmdline]
+0=op
+1=def
+
+[Dir Hist New Left Panel]
+0=/etc/openafs/server-local
+1=/vicepa/Lock
+2=/var/cache/openafs/lost+found
+3=/var/cache/openafs
+4=/var/cache
+5=/var
+6=/srv
+7=/opt
+8=/media
+9=/etc/cron.weekly
+10=/etc/default
+11=/etc/openafs/server
+12=/vicepa/AFSIDat/+0
+13=/vicepa/AFSIDat/x=/x=++U/+/+
+14=/vicepa/AFSIDat/x=/x=++U/+
+15=/vicepa/AFSIDat/x=/x=++U
+16=/vicepa/AFSIDat/x=
+17=/vicepa/AFSIDat
+18=/vicepa
+19=/etc/openafs
+20=/etc
+21=/afs/intranet.highprophil.com/Ex-Change/KONPLOTTbookLay.2/pages
+22=/afs/intranet.highprophil.com/Ex-Change/KONPLOTTbookLay.2
+23=/afs/intranet.highprophil.com/Ex-Change/productshots
+24=/afs/intranet.highprophil.com/HOME
+25=/afs/intranet.highprophil.com/PRIVATE
+26=/
+27=/afs/.intranet.highprophil.com
+28=/afs
+29=/afs/intranet.highprophil.com
+30=/afs/intranet.highprophil.com/SHARED
+31=/afs/intranet.highprophil.com/SHARED/SALES REPORT/Reports/Monthly
+32=/afs/intranet.highprophil.com/SHARED/SALES REPORT/Reports/Project
+33=/afs/intranet.highprophil.com/SHARED/SALES REPORT/Reports/Weekly
+34=/afs/intranet.highprophil.com/SHARED/SALES REPORT/Reports
+35=/afs/intranet.highprophil.com/SHARED/SALES REPORT
+36=/afs/intranet.highprophil.com/SHARED/SALES REPORT/Lookbooks
+37=/afs/intranet.highprophil.com/Ex-Change
+38=/afs/intranet.highprophil.com/Ex-Change/20050509

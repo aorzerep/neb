@@ -1,0 +1,67 @@
+Terminated!
+Terminated!
+
+
+UNISON 2.40.102 started propagating changes at 14:05:24.48 on 02 Jul 2014
+[BGN] Updating file AFSIDat/3=/3=++U/1/a=/AqA++2jQ06 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/=/c/f03++wRtD6 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/=/c/v03++IUtD6 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/=/d/DA3+2kxlD6 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/=/e/DE3++A7oD6 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/=/f/gT3++ccAW6 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/special/zzzz5I2+++0 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/special/zzzz9I2+++0 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/special/zzzzDI2+++0 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/3=/3=++U/special/zzzzPI2+++0 from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/q0/q0++U/E/T/ez1=+snZB from /vicepa to //neb2//vicepa
+[BGN] Updating file AFSIDat/q0/q0++U/special/zzzz5M9+++0 from /vicepa to //neb2//vicepa
+[ERROR] Skipping AFSIDat/q0/q0++U/special/zzzz9M9+++0
+  Failed to fingerprint file "/vicepa/AFSIDat/q0/q0++U/special/zzzz9M9+++0": the file keeps on changing
+[BGN] Copying AFSIDat/3=/3=++U/=/h/ei3++MFHW6 from /vicepa to //neb2//vicepa
+[BGN] Copying AFSIDat/3=/3=++U/=/h/oj3++oEHW6 from /vicepa to //neb2//vicepa
+Shortcut: copied /vicepa/AFSIDat/3=/3=++U/=/h/ei3++MFHW6 from local file /vicepa/AFSIDat/3=/3=++U/=/o/Mb4++wBHW6
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/=/h/ei3++MFHW6
+has been modified during synchronization.  Transfer aborted.
+Shortcut: copied /vicepa/AFSIDat/3=/3=++U/=/h/oj3++oEHW6 from local file /vicepa/AFSIDat/3=/3=++U/=/k/S24++kkrV6
+[END] Copying AFSIDat/3=/3=++U/=/h/oj3++oEHW6
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/1/a=/AqA++2jQ06
+has been modified during synchronization.  Transfer aborted.
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/=/c/f03++wRtD6
+has been modified during synchronization.  Transfer aborted.
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/=/d/DA3+2kxlD6
+has been modified during synchronization.  Transfer aborted.
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/=/e/DE3++A7oD6
+has been modified during synchronization.  Transfer aborted.
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/=/f/gT3++ccAW6
+has been modified during synchronization.  Transfer aborted.
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/special/zzzz5I2+++0
+has been modified during synchronization.  Transfer aborted.
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/special/zzzz9I2+++0
+has been modified during synchronization.  Transfer aborted.
+Failed: The source file /vicepa/AFSIDat/q0/q0++U/special/zzzz5M9+++0
+has been modified during synchronization.  Transfer aborted.
+[END] Updating file AFSIDat/3=/3=++U/=/c/v03++IUtD6
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/special/zzzzDI2+++0
+has been modified during synchronization.  Transfer aborted.
+Failed: The source file /vicepa/AFSIDat/3=/3=++U/special/zzzzPI2+++0
+has been modified during synchronization.  Transfer aborted.
+[END] Updating file AFSIDat/q0/q0++U/E/T/ez1=+snZB
+[BGN] Deleting AFSIDat/3=/3=++U/=/o/Mb4++wBHW6 from //neb2//vicepa
+[END] Deleting AFSIDat/3=/3=++U/=/o/Mb4++wBHW6
+UNISON 2.40.102 finished propagating changes at 14:05:26.12 on 02 Jul 2014
+
+
+Synchronization incomplete at 14:05:26  (4 items transferred, 1 skipped, 11 failed)
+  skipped: AFSIDat/q0/q0++U/special/zzzz9M9+++0
+  failed: AFSIDat/3=/3=++U/=/h/ei3++MFHW6
+  failed: AFSIDat/3=/3=++U/1/a=/AqA++2jQ06
+  failed: AFSIDat/3=/3=++U/=/c/f03++wRtD6
+  failed: AFSIDat/3=/3=++U/=/d/DA3+2kxlD6
+  failed: AFSIDat/3=/3=++U/=/e/DE3++A7oD6
+  failed: AFSIDat/3=/3=++U/=/f/gT3++ccAW6
+  failed: AFSIDat/3=/3=++U/special/zzzz5I2+++0
+  failed: AFSIDat/3=/3=++U/special/zzzz9I2+++0
+  failed: AFSIDat/q0/q0++U/special/zzzz5M9+++0
+  failed: AFSIDat/3=/3=++U/special/zzzzDI2+++0
+  failed: AFSIDat/3=/3=++U/special/zzzzPI2+++0
+Terminated!

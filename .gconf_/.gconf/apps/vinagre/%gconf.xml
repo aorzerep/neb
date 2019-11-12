@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="window_height" mtime="1305853894" type="int" value="500"/>
+	<entry name="window_width" mtime="1305853894" type="int" value="650"/>
+	<entry name="window_state" mtime="1305853894" type="int" value="0"/>
+	<entry name="side_panel_size" mtime="1305853894" type="int" value="200"/>
+	<entry name="statusbar_visible" mtime="1305853894" type="bool" value="true"/>
+	<entry name="toolbar_visible" mtime="1305853894" type="bool" value="true"/>
+	<entry name="side_pane_visible" mtime="1305853894" type="bool" value="true"/>
+</gconf>

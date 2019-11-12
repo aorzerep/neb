@@ -1,0 +1,6 @@
+aio-stress.c: In function ‘worker’:
+aio-stress.c:1175: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘long int’
+aio-stress.c: In function ‘main’:
+aio-stress.c:1455: warning: format ‘%Lu’ expects type ‘long long unsigned int’, but argument 3 has type ‘off_t’
+aio-stress.c:1459: warning: format ‘%Lu’ expects type ‘long long unsigned int’, but argument 3 has type ‘off_t’
+aio-stress.c:1464: warning: format ‘%Lu’ expects type ‘long long unsigned int’, but argument 6 has type ‘off_t’

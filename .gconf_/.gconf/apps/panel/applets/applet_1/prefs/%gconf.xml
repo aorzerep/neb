@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="theme_path" mtime="1311220552" schema="/schemas/apps/geyes/prefs/theme_path" type="string">
+		<stringvalue>/usr/share/gnome-applets/geyes/Default-tiny</stringvalue>
+	</entry>
+</gconf>

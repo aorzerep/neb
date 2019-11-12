@@ -1,0 +1,9 @@
+dn: cn=admin,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=tpasidis,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mbalangue,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=kram,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=riegel,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=miko,ou=users,dc=intranet,dc=highprophil,dc=com
+

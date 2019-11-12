@@ -1,0 +1,10 @@
+fs_mark-3.3/
+fs_mark-3.3/fs_mark.h
+fs_mark-3.3/plot_test
+fs_mark-3.3/lib_timing.c
+fs_mark-3.3/Makefile
+fs_mark-3.3/fs_mark.c
+fs_mark-3.3/README
+cc -O2 -Wall -D_FILE_OFFSET_BITS=64   -c -o fs_mark.o fs_mark.c
+cc -O2 -Wall -D_FILE_OFFSET_BITS=64   -c -o lib_timing.o lib_timing.c
+cc -static -o fs_mark fs_mark.o lib_timing.o

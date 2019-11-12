@@ -1,0 +1,15 @@
+dn: cn=sampling,ou=groups,dc=intranet,dc=highprophil,dc=com
+changetype: modify
+add: memberUid
+memberUid: uid=lacasio,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=genriquez,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=rdosdos,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mlserafin,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=rmaluya,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=jgabunada,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=msimpoo,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=bcasayan,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=rpagatpat,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=mflapingcao,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=ljnaranjo,ou=users,dc=intranet,dc=highprophil,dc=com
+memberUid: uid=edelmar,ou=users,dc=intranet,dc=highprophil,dc=com

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="height" mtime="1305883041" type="int" value="590">
+        </entry>
+        <entry name="width" mtime="1305883041" type="int" value="945">
+        </entry>
+        <entry name="last_char" mtime="1305883040" type="string">
+                <stringvalue>U+FF53</stringvalue>
+        </entry>
+        <entry name="font" mtime="1305883040" type="string">
+                <stringvalue>Sans 20</stringvalue>
+        </entry>
+</gconf>

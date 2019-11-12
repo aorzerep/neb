@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="viewer_show_toolbar" mtime="1307533732" type="bool" value="true">
+        </entry>
+        <entry name="viewer_height" mtime="1304034488" type="int" value="480">
+        </entry>
+        <entry name="viewer_width" mtime="1304034488" type="int" value="640">
+        </entry>
+        <entry name="viewer_maximized" mtime="1307533732" type="bool" value="true">
+        </entry>
+        <entry name="viewer_show_filenames" mtime="1307533732" type="bool" value="true">
+        </entry>
+</gconf>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="always_use_location_entry" mtime="1307237428" type="bool" value="true">
+        </entry>
+        <entry name="navigation_window_saved_geometry" mtime="1306740828" type="string">
+                <stringvalue>1478x971+0+25</stringvalue>
+        </entry>
+        <entry name="navigation_window_saved_maximized" mtime="1311241125" type="bool" value="true">
+        </entry>
+</gconf>

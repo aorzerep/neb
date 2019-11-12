@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="font_color" mtime="1304470776" type="string">
+                <stringvalue>#000000</stringvalue>
+        </entry>
+        <entry name="color" mtime="1304470776" type="string">
+                <stringvalue>#1becf0</stringvalue>
+        </entry>
+        <entry name="height" mtime="1308094352" type="int" value="100">
+        </entry>
+        <entry name="width" mtime="1308094352" type="int" value="100">
+        </entry>
+</gconf>

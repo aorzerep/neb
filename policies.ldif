@@ -1,0 +1,4 @@
+dn: ou=policies,dc=intranet,dc=highprophil,dc=com
+objectClass: organizationalUnit
+objectClass: top
+ou: policies
